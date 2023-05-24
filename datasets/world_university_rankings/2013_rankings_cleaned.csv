@@ -1,0 +1,112 @@
+rank_order,rank,name,scores_overall,scores_overall_rank,scores_teaching,scores_teaching_rank,location
+1,1,California Institute of Technology,95.5,1,96.3,1,United States
+2,2,Stanford University,93.7,2,95.0,2,United States
+4,4,Harvard University,93.6,4,94.9,3,United States
+5,5,Massachusetts Institute of Technology,93.1,5,92.9,5,United States
+6,6,Princeton University,92.7,6,89.5,11,United States
+9,9,"University of California, Berkeley",90.5,9,85.1,15,United States
+10,10,The University of Chicago,90.4,10,89.6,10,United States
+11,11,Yale University,89.2,11,93.2,4,United States
+13,13,"University of California, Los Angeles",87.7,13,87.3,14,United States
+14,14,Columbia University,87.0,14,89.7,8,United States
+15,15,University of Pennsylvania,86.6,15,90.0,7,United States
+16,16,Johns Hopkins University,85.6,16,81.8,18,United States
+18,18,Cornell University,83.3,18,77.0,24,United States
+19,19,Northwestern University,83.1,19,77.6,22,United States
+20,20,University of Michigan-Ann Arbor,82.6,20,76.1,26,United States
+22,22,Carnegie Mellon University,81.5,22,71.8,36,United States
+23,23,Duke University,81.2,23,72.3,35,United States
+24,24,University of Washington,79.9,24,74.7,29,United States
+25,25,University of Texas at Austin,78.8,26,75.5,28,United States
+25,25,Georgia Institute of Technology,78.8,25,70.2,39,United States
+31,31,University of Wisconsin-Madison,76.9,31,76.1,27,United States
+33,33,University of Illinois at Urbana-Champaign,75.8,33,74.2,33,United States
+35,35,"University of California, Santa Barbara",75.6,35,56.1,77,United States
+38,38,"University of California, San Diego",75.2,38,63.4,57,United States
+41,41,New York University,72.8,41,73.8,34,United States
+42,42,University of North Carolina at Chapel Hill,72.4,43,70.4,38,United States
+44,44,"University of California, Davis",71.8,44,67.9,46,United States
+44,44,Washington University in St Louis,71.8,45,66.0,50,United States
+47,47,University of Minnesota,70.5,47,66.1,49,United States
+51,51,Brown University,68.9,51,63.7,55,United States
+53,53,Ohio State University (Main campus),67.0,53,66.7,47,United States
+54,54,Boston University,66.8,54,65.4,52,United States
+56,56,University of Southern California,66.3,56,68.4,45,United States
+61,61,Penn State (Main campus),65.8,61,55.0,80,United States
+69,69,Purdue University West Lafayette,63.8,69,59.8,63,United States
+72,72,University of Massachusetts,62.9,73,57.1,70,United States
+75,75,Rice University,62.0,75,49.5,105,United States
+76,76,University of Pittsburgh-Pittsburgh campus,61.7,76,54.6,82,United States
+79,79,Emory University,61.3,79,56.7,72,United States
+87,87,Tufts University,59.1,87,52.6,90,United States
+91,91,University of Colorado Boulder,58.7,91,42.3,165,United States
+94,94,University of Notre Dame,58.3,95,48.3,115,United States
+94,94,Michigan State University,58.3,94,51.8,93,United States
+96,96,"University of California, Irvine",58.2,96,44.0,152,United States
+97,97,"University of Maryland, College Park",57.9,97,44.9,141,United States
+98,98,University of Arizona,57.7,98,47.0,127,United States
+99,99,Rutgers University – New Brunswick,57.5,101,50.9,98,United States
+102,102,University of Rochester,57.2,102,46.0,133,United States
+104,104,Case Western Reserve University,56.9,104,56.5,73,United States
+106,106,Vanderbilt University,56.6,107,51.5,96,United States
+118,118,University of Virginia (Main campus),55.0,118,55.9,78,United States
+122,122,University of Florida,54.5,123,52.0,92,United States
+122,122,"University of California, Santa Cruz",54.5,122,32.1,266,United States
+124,124,Dartmouth College,54.4,125,47.5,122,United States
+134,134,Indiana University,53.2,134,48.3,113,United States
+134,134,University of Utah,53.2,136,43.3,156,United States
+148,148,Arizona State University (Tempe),51.9,148,38.4,193,United States
+150,150,Boston College,51.6,150,34.5,240,United States
+154,154,"University of California, Riverside",51.1,155,29.1,289,United States
+156,156,Texas A&M University,50.9,156,46.4,129,United States
+156,156,Yeshiva University,50.9,157,51.7,95,United States
+162,162,Stony Brook University,50.2,162,38.8,189,United States
+165,165,University of Delaware,49.7,165,30.0,283,United States
+167,167,University of Texas at Dallas,49.5,167,32.6,262,United States
+168,168,George Washington University,49.4,168,48.1,117,United States
+169,169,University of Iowa,49.3,169,49.0,108,United States
+174,174,Georgetown University,48.9,174,56.4,75,United States
+174,174,Rensselaer Polytechnic Institute,48.9,175,36.2,216,United States
+184,184,University of Illinois Chicago,48.0,185,53.9,86,United States
+184,184,William & Mary,48.0,186,41.3,171,United States
+184,184,Colorado School of Mines,48.0,184,24.9,327,United States
+189,189,Medical University of South Carolina,47.7,189,46.2,132,United States
+190,190,Wake Forest University,47.3,191,37.5,202,United States
+193,193,Iowa State University,46.9,193,35.7,223,United States
+193,193,University of Miami,46.9,195,48.7,111,United States
+198,198,University at Buffalo,46.6,198,46.3,131,United States
+201,201-225,University of Georgia,-,326,45.4,137,United States
+201,201-225,Brandeis University,-,212,27.3,308,United States
+201,201-225,"Northeastern University, US",-,274,40.1,178,United States
+226,226-250,Georgia Health Sciences University,-,229,49.4,107,United States
+226,226-250,Mizzou - University of Missouri,-,346,40.4,176,United States
+226,226-250,Tulane University,-,304,42.8,159,United States
+226,226-250,Florida Institute of Technology,-,226,16.2,395,United States
+226,226-250,University of Cincinnati – Uptown,-,316,34.9,231,United States
+226,226-250,University of South Florida (Tampa),-,364,32.6,261,United States
+251,251-275,University of Connecticut,-,317,42.5,161,United States
+251,251-275,University of Oregon,-,352,31.5,273,United States
+276,276-300,Oregon State University,-,276,27.1,312,United States
+276,276-300,University of Kansas,-,335,36.1,219,United States
+276,276-300,Virginia Polytechnic Institute and State University,-,393,38.5,192,United States
+276,276-300,"Colorado State University, Fort Collins",-,220,30.8,278,United States
+276,276-300,Drexel University,-,224,34.7,236,United States
+276,276-300,University of South Carolina-Columbia,-,363,37.5,201,United States
+276,276-300,University of Montana,-,348,28.9,291,United States
+301,301-350,"University of Maryland, Baltimore County",-,342,19.4,375,United States
+301,301-350,SUNY University at Albany,-,293,30.2,282,United States
+301,301-350,University of Kentucky,-,336,39.1,187,United States
+301,301-350,Washington State University,-,396,29.9,285,United States
+301,301-350,North Carolina State University,-,273,34.8,233,United States
+301,301-350,Wayne State University,-,397,34.3,243,United States
+301,301-350,Creighton University,-,221,42.4,162,United States
+301,301-350,University of Vermont,-,383,28.5,296,United States
+351,351-400,Lehigh University,-,249,26.0,319,United States
+351,351-400,University of Wyoming,-,390,18.6,384,United States
+351,351-400,SUNY Binghamton University,-,210,23.3,337,United States
+351,351-400,Southern Methodist University,-,290,18.6,381,United States
+351,351-400,Temple University,-,298,37.2,206,United States
+351,351-400,University of Oklahoma,-,351,36.8,208,United States
+351,351-400,George Mason University,-,228,27.2,310,United States
+351,351-400,University of Houston,-,331,37.5,200,United States
+351,351-400,The University of Texas at San Antonio,-,374,17.3,390,United States
