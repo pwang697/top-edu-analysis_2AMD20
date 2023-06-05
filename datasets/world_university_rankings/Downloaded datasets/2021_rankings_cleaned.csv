@@ -1,0 +1,182 @@
+rank_order,rank,name,scores_overall,scores_overall_rank,scores_teaching,scores_teaching_rank,location
+20,2,Stanford University,94.9,20,92.2,3,United States
+30,3,Harvard University,94.8,30,94.4,1,United States
+40,4,California Institute of Technology,94.5,40,92.5,2,United States
+50,5,Massachusetts Institute of Technology,94.4,50,90.7,6,United States
+70,7,"University of California, Berkeley",92.2,70,85.8,13,United States
+80,8,Yale University,91.6,80,91.9,4,United States
+90,9,Princeton University,91.5,90,88.8,10,United States
+100,10,The University of Chicago,90.3,100,88.9,9,United States
+120,12,Johns Hopkins University,89.2,120,81.6,18,United States
+130,13,University of Pennsylvania,88.9,130,85.4,14,United States
+150,15,"University of California, Los Angeles",87.1,150,82.5,16,United States
+170,17,Columbia University,86.8,170,85.1,15,United States
+190,19,Cornell University,85.3,190,78.8,23,United States
+200,=20,Duke University,84.8,200,80.7,19,United States
+220,22,University of Michigan-Ann Arbor,84.0,220,79.0,22,United States
+240,24,Northwestern University,83.6,240,74.9,29,United States
+260,26,New York University,81.9,260,76.1,26,United States
+280,28,Carnegie Mellon University,81.0,280,65.1,43,United States
+290,29,University of Washington,80.4,290,69.8,32,United States
+330,33,"University of California, San Diego",77.7,330,60.3,60,United States
+380,38,Georgia Institute of Technology,75.8,380,59.5,61,United States
+440,44,University of Texas at Austin,74.0,440,67.9,36,United States
+480,48,University of Illinois at Urbana-Champaign,72.3,480,62.5,51,United States
+490,49,University of Wisconsin-Madison,71.4,490,68.2,35,United States
+500,50,Washington University in St Louis,71.1,500,61.2,54,United States
+530,53,University of Southern California,70.4,530,63.8,48,United States
+540,=54,Boston University,70.3,540,58.9,62,United States
+580,=56,University of North Carolina at Chapel Hill,70.1,580,60.6,57,United States
+610,61,Brown University,69.5,610,62.4,52,United States
+640,=64,"University of California, Davis",68.9,640,60.5,58,United States
+680,68,"University of California, Santa Barbara",67.9,680,45.8,140,United States
+820,=80,Ohio State University (Main campus),65.1,820,55.6,78,United States
+850,=85,Emory University,63.7,850,53.9,85,United States
+860,=85,University of Minnesota,63.7,860,55.1,80,United States
+900,90,"University of Maryland, College Park",63.1,900,47.4,122,United States
+940,=94,Purdue University West Lafayette,62.5,940,57.1,72,United States
+980,=98,"University of California, Irvine",62.1,980,43.5,164,United States
+1010,=101,Dartmouth College,61.7,1010,57.8,65,United States
+1050,105,Michigan State University,61.5,1050,53.1,89,United States
+1130,=111,Vanderbilt University,61.0,1130,48.9,110,United States
+1150,=114,Penn State (Main campus),60.9,1150,52.6,91,United States
+1170,117,University of Virginia (Main campus),60.6,1170,52.1,96,United States
+1200,120,Georgetown University,60.1,1200,54.5,81,United States
+1210,=121,Case Western Reserve University,60.0,1210,47.3,124,United States
+1240,=124,University of Arizona,59.8,1240,47.6,120,United States
+1250,=124,Rice University,59.8,1250,48.0,118,United States
+1320,=131,University of Colorado Boulder,58.9,1320,43.8,162,United States
+1330,=133,University of Pittsburgh-Pittsburgh campus,58.8,1330,45.5,144,United States
+1400,=140,Indiana University,58.2,1400,49.8,107,United States
+1480,=147,University of Rochester,57.8,1480,45.4,146,United States
+1520,=152,University of Florida,57.4,1520,54.2,84,United States
+1570,=155,Tufts University,57.3,1570,46.7,130,United States
+1660,166,Rutgers University – New Brunswick,56.4,1660,47.3,125,United States
+1690,169,University of Alabama at Birmingham,56.2,1690,38.4,243,United States
+1720,=170,University of Notre Dame,56.0,1720,52.1,95,United States
+1760,=176,"Northeastern University, US",55.8,1760,36.7,278,United States
+1840,=184,Arizona State University (Tempe),55.2,1840,38.2,246,United States
+1880,=187,George Washington University,54.9,1880,46.9,127,United States
+1970,197,Texas A&M University,54.5,1970,47.4,123,United States
+2070,201–250,Brandeis University,50.6–54.2,2070,28.1,536,United States
+2080,201–250,"University of California, Santa Cruz",50.6–54.2,2080,31.4,413,United States
+2150,201–250,University of Hawai’i at Mānoa,50.6–54.2,2150,37.0,267,United States
+2180,201–250,Howard University,50.6–54.2,2180,43.9,161,United States
+2190,201–250,University of Iowa,50.6–54.2,2190,42.3,180,United States
+2270,201–250,University of Massachusetts,50.6–54.2,2270,37.3,259,United States
+2310,201–250,University of Miami,50.6–54.2,2310,45.1,149,United States
+2390,201–250,University of South Florida (Tampa),50.6–54.2,2390,31.1,426,United States
+2450,201–250,University of Utah,50.6–54.2,2450,38.3,245,United States
+2460,201–250,Virginia Polytechnic Institute and State University,50.6–54.2,2460,36.2,296,United States
+2550,251–300,University at Buffalo,48.0–50.5,2550,36.8,272,United States
+2560,251–300,"University of California, Riverside",48.0–50.5,2560,31.2,423,United States
+2570,251–300,University of Cincinnati – Uptown,48.0–50.5,2570,35.8,299,United States
+2630,251–300,Florida State University,48.0–50.5,2630,37.9,251,United States
+2650,251–300,George Mason University,48.0–50.5,2650,31.0,429,United States
+2680,251–300,University of Illinois Chicago,48.0–50.5,2680,43.7,163,United States
+2770,251–300,University of New Mexico (Main campus),48.0–50.5,2770,39.8,214,United States
+2780,251–300,Nova Southeastern University,48.0–50.5,2780,38.7,240,United States
+2790,251–300,Oregon Health and Science University,48.0–50.5,2790,36.5,283,United States
+2880,251–300,SUNY University at Albany,48.0–50.5,2880,24.2,737,United States
+2970,251–300,Wake Forest University,48.0–50.5,2970,39.1,232,United States
+2990,251–300,William & Mary,48.0–50.5,2990,46.1,138,United States
+3040,301–350,Boston College,45.6–47.9,3040,48.2,116,United States
+3050,301–350,"University of California, Merced",45.6–47.9,3050,21.6,890,United States
+3060,301–350,University of Colorado Denver/Anschutz Medical Campus,45.6–47.9,3060,32.7,376,United States
+3080,301–350,University of Delaware,45.6–47.9,3080,27.9,540,United States
+3120,301–350,Illinois Institute of Technology,45.6–47.9,3120,42.2,181,United States
+3230,301–350,North Carolina State University,45.6–47.9,3230,36.6,281,United States
+3240,301–350,University of Oregon,45.6–47.9,3240,33.0,370,United States
+3320,301–350,Rush University,45.6–47.9,3320,39.9,210,United States
+3360,301–350,Stony Brook University,45.6–47.9,3360,33.3,360,United States
+3370,301–350,Syracuse University,45.6–47.9,3370,34.7,326,United States
+3410,301–350,Temple University,45.6–47.9,3410,38.8,238,United States
+3420,301–350,The University of Tennessee-Knoxville,45.6–47.9,3420,33.1,367,United States
+3430,301–350,University of Texas at Dallas,45.6–47.9,3430,25.0,693,United States
+3460,301–350,Tulane University,45.6–47.9,3460,42.9,174,United States
+3490,301–350,Washington State University,45.6–47.9,3490,32.1,396,United States
+3610,351–400,Drexel University,43.6–45.5,3610,35.7,302,United States
+3720,351–400,University of Kansas,43.6–45.5,3720,36.6,279,United States
+4000,351–400,Wayne State University,43.6–45.5,4000,33.6,354,United States
+4020,401–500,University of Alaska Fairbanks,39.8–43.5,4020,28.8,512,United States
+4030,401–500,American University,39.8–43.5,4030,39.5,217,United States
+4200,401–500,Clark University,39.8–43.5,4200,23.9,744,United States
+4210,401–500,Colorado School of Mines,39.8–43.5,4210,30.8,435,United States
+4220,401–500,"Colorado State University, Fort Collins",39.8–43.5,4220,28.9,508,United States
+4230,401–500,University of Connecticut,39.8–43.5,4230,34.7,322,United States
+4240,401–500,University of Denver,39.8–43.5,4240,40.2,203,United States
+4320,401–500,Florida International University,39.8–43.5,4320,30.6,445,United States
+4350,401–500,University of Georgia,39.8–43.5,4350,40.3,202,United States
+4360,401–500,Georgia State University,39.8–43.5,4360,32.1,391,United States
+4430,401–500,Iowa State University,39.8–43.5,4430,30.7,440,United States
+4470,401–500,University of Kentucky,39.8–43.5,4470,36.6,280,United States
+4580,401–500,Missouri University of Science and Technology,39.8–43.5,4580,25.2,679,United States
+4590,401–500,Mizzou - University of Missouri,39.8–43.5,4590,35.3,310,United States
+4650,401–500,University of Nebraska-Lincoln,39.8–43.5,4650,26.1,626,United States
+4680,401–500,Oklahoma State University,39.8–43.5,4680,28.6,526,United States
+4690,401–500,Oregon State University,39.8–43.5,4690,29.6,479,United States
+4890,401–500,University of South Carolina-Columbia,39.8–43.5,4890,33.6,353,United States
+4990,401–500,The University of Tulsa,39.8–43.5,4990,34.9,318,United States
+5340,501–600,Hofstra University,36.4–39.7,5340,26.6,599,United States
+5360,501–600,University of Houston,36.4–39.7,5360,33.0,368,United States
+5520,501–600,Louisiana State University,36.4–39.7,5520,32.6,380,United States
+5570,501–600,University of Montana,36.4–39.7,5570,35.5,306,United States
+5620,501–600,University of Nebraska Medical Center,36.4–39.7,5620,34.6,328,United States
+5630,501–600,New Jersey Institute of Technology,36.4–39.7,5630,22.6,821,United States
+5640,501–600,Northern Arizona University,36.4–39.7,5640,20.5,967,United States
+5730,501–600,Rensselaer Polytechnic Institute,36.4–39.7,5730,29.3,494,United States
+5820,501–600,Stevens Institute of Technology,36.4–39.7,5820,22.2,846,United States
+5860,501–600,SUNY Binghamton University,36.4–39.7,5860,22.3,842,United States
+5910,501–600,The University of Texas at San Antonio,36.4–39.7,5910,19.3,1075,United States
+6060,601–800,The University of Alabama,30.2–36.3,6060,26.9,585,United States
+6070,601–800,University of Alabama in Huntsville,30.2–36.3,6070,20.8,944,United States
+6120,601–800,University of Arkansas,30.2–36.3,6120,27.7,548,United States
+6140,601–800,Auburn University,30.2–36.3,6140,30.7,439,United States
+6310,601–800,University of Central Florida,30.2–36.3,6310,25.0,690,United States
+6320,601–800,Chapman University,30.2–36.3,6320,38.1,248,United States
+6390,601–800,Clemson University,30.2–36.3,6390,25.3,671,United States
+6450,601–800,Creighton University,30.2–36.3,6450,41.4,186,United States
+6720,601–800,University of Idaho,30.2–36.3,6720,32.5,383,United States
+6950,601–800,Kansas State University,30.2–36.3,6950,24.3,730,United States
+7070,601–800,Lehigh University,30.2–36.3,7070,27.9,543,United States
+7180,601–800,"University of Maryland, Baltimore County",30.2–36.3,7180,22.2,844,United States
+7230,601–800,University of Missouri-St Louis,30.2–36.3,7230,27.7,552,United States
+7250,601–800,Montana State University,30.2–36.3,7250,20.2,995,United States
+7370,601–800,"University of Nevada, Las Vegas",30.2–36.3,7370,27.2,569,United States
+7380,601–800,New Mexico State University (Main campus),30.2–36.3,7380,23.2,789,United States
+7400,601–800,University of North Carolina at Greensboro,30.2–36.3,7400,22.2,845,United States
+7440,601–800,Ohio University (Main campus),30.2–36.3,7440,28.7,518,United States
+7620,601–800,University of Rhode Island,30.2–36.3,7620,23.1,795,United States
+7700,601–800,San Diego State University,30.2–36.3,7700,23.7,756,United States
+7860,601–800,University of Texas at Arlington,30.2–36.3,7860,21.5,902,United States
+7870,601–800,Texas Tech University,30.2–36.3,7870,29.1,501,United States
+7900,601–800,University of Toledo,30.2–36.3,7900,31.6,409,United States
+7970,601–800,Western Washington University,30.2–36.3,7970,15.9,1396,United States
+7990,601–800,University of Wisconsin-Milwaukee,30.2–36.3,7990,21.8,879,United States
+8000,601–800,Worcester Polytechnic Institute,30.2–36.3,8000,24.5,714,United States
+8170,801–1000,Baylor University,25.1–30.1,8170,29.7,475,United States
+8230,801–1000,Bowling Green State University,25.1–30.1,8230,20.0,1010,United States
+8520,801–1000,Florida Agricultural and Mechanical University,25.1–30.1,8520,34.5,329,United States
+8530,801–1000,Florida Atlantic University,25.1–30.1,8530,19.6,1044,United States
+8540,801–1000,Florida Institute of Technology,25.1–30.1,8540,23.4,770,United States
+8840,801–1000,Kent State University,25.1–30.1,8840,22.4,836,United States
+9010,801–1000,Louisiana Tech University,25.1–30.1,9010,16.9,1310,United States
+9030,801–1000,Marquette University,25.1–30.1,9030,36.3,293,United States
+9050,801–1000,University of Memphis,25.1–30.1,9050,26.0,630,United States
+9060,801–1000,Miami University,25.1–30.1,9060,21.9,866,United States
+9090,801–1000,Mississippi State University,25.1–30.1,9090,21.1,927,United States
+9200,801–1000,The New School,25.1–30.1,9200,25.5,662,United States
+9310,801–1000,Old Dominion University,25.1–30.1,9310,23.4,773,United States
+9390,801–1000,Portland State University,25.1–30.1,9390,21.4,911,United States
+9440,801–1000,Rochester Institute of Technology,25.1–30.1,9440,20.1,1007,United States
+9640,801–1000,University of South Dakota,25.1–30.1,9640,34.2,337,United States
+9650,801–1000,Southern Illinois University Carbondale,25.1–30.1,9650,31.3,422,United States
+9780,801–1000,University of Texas at El Paso,25.1–30.1,9780,21.0,937,United States
+10780,1001+,"California State University, Long Beach",10.3–25.0,10780,23.2,785,United States
+11190,1001+,East Carolina University,10.3–25.0,11190,22.1,850,United States
+12140,1001+,James Madison University,10.3–25.0,12140,18.1,1184,United States
+12890,1001+,Morgan State University,10.3–25.0,12890,18.2,1175,United States
+13280,1001+,University of North Carolina Wilmington,10.3–25.0,13280,16.2,1374,United States
+13350,1001+,Oakland University,10.3–25.0,13350,27.2,571,United States
+14620,1001+,Texas State University,10.3–25.0,14620,18.4,1161,United States
+15070,1001+,Western Michigan University,10.3–25.0,15070,20.2,1001,United States
