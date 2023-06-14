@@ -1,0 +1,793 @@
+city,county,latitude,longitude,name,rank,scores_industry_income,scores_international_outlook,scores_research,scores_teaching,state,stats_female_male_ratio,stats_pc_intl_students,stats_student_staff_ratio,year
+Stanford,Santa Clara,37.432974,-122.175045,Stanford University,2,90.1,79.5,96.7,92.2,CA,44 : 56,23%,7.4,2021
+Cambridge,Middlesex,42.374172,-71.118234,Harvard University,3,46.8,77.7,98.8,94.4,MA,49 : 51,25%,9.3,2021
+Pasadena,Los Angeles,34.139181,-118.125567,California Institute of Technology,4,92.7,83.6,96.9,92.5,CA,36 : 64,33%,6.3,2021
+Cambridge,Middlesex,42.360095,-71.092115,Massachusetts Institute of Technology,5,90.4,90.0,94.4,90.7,MA,39 : 61,34%,8.4,2021
+New Haven,New Haven,41.312308,-72.922511,Yale University,8,56.1,68.4,93.8,91.9,CT,50 : 50,20%,6.0,2021
+Princeton,Mercer,40.347141,-74.657698,Princeton University,9,58.0,80.2,92.5,88.8,NJ,46 : 54,23%,8.0,2021
+Baltimore,Baltimore,39.329808,-76.620723,Johns Hopkins University,12,93.4,73.9,91.8,81.6,MD,52 : 48,27%,4.4,2021
+Philadelphia,Philadelphia,39.951002,-75.193618,University of Pennsylvania,13,77.9,66.3,89.9,85.4,PA,52 : 48,21%,6.4,2021
+Ithaca,Tompkins,42.448713,-76.476535,Cornell University,19,36.3,73.7,86.7,78.8,NY,50 : 50,25%,10.2,2021
+Durham,Durham,36.002344,-78.938597,Duke University,=20,99.7,65.5,80.4,80.7,NC,49 : 51,21%,4.3,2021
+Ann Arbor,Washtenaw,42.27803,-83.736564,University of Michigan-Ann Arbor,22,47.2,59.6,86.9,79.0,MI,50 : 50,17%,8.3,2021
+Evanston,Cook,42.058377,-87.673653,Northwestern University,24,69.9,64.5,83.6,74.9,IL,49 : 51,19%,13.0,2021
+New York,New York,40.729452,-73.997264,New York University,26,37.3,69.6,80.6,76.1,NY,57 : 43,34%,8.8,2021
+Pittsburgh,Allegheny,40.443598,-79.943485,Carnegie Mellon University,28,53.3,80.5,81.3,65.1,PA,43 : 57,48%,13.7,2021
+Champaign,Champaign,40.108312,-88.228482,University of Illinois at Urbana-Champaign,48,49.5,55.1,79.1,62.5,IL,48 : 52,24%,17.8,2021
+Madison,Dane,43.073858,-89.405356,University of Wisconsin-Madison,49,45.0,48.4,71.4,68.2,WI,,13%,9.8,2021
+Saint Louis,St. Louis,38.648125,-90.311639,Washington University in St Louis,50,40.4,59.1,58.7,61.2,MO,,21%,7.5,2021
+Los Angeles,Los Angeles,34.021058,-118.283858,University of Southern California,53,39.2,64.9,58.4,63.8,CA,49 : 51,23%,13.0,2021
+Boston,Suffolk,42.349581,-71.09984,Boston University,=54,41.7,64.9,60.9,58.9,MA,59 : 41,28%,11.1,2021
+Chapel Hill,Orange,35.912165,-79.050969,University of North Carolina at Chapel Hill,=56,42.5,39.7,63.3,60.6,NC,58 : 42,8%,8.2,2021
+Providence,Providence,41.826853,-71.402925,Brown University,61,36.1,62.3,56.6,62.4,RI,,20%,10.8,2021
+Atlanta,DeKalb,33.798836,-84.325782,Emory University,=85,46.7,59.2,41.1,53.9,GA,59 : 41,20%,4.0,2021
+Hanover,Grafton,43.705524,-72.288842,Dartmouth College,=101,37.8,40.7,39.2,57.8,NH,48 : 52,15%,7.6,2021
+East Lansing,Ingham,42.72476,-84.473639,Michigan State University,105,36.4,63.6,55.1,53.1,MI,51 : 49,15%,16.1,2021
+Nashville,Davidson,36.14443,-86.804875,Vanderbilt University,=111,53.5,43.6,44.5,48.9,TN,54 : 46,15%,3.0,2021
+Washington,District of Columbia,38.908809,-77.073463,Georgetown University,120,65.7,47.2,33.8,54.5,DC,55 : 45,19%,8.5,2021
+Cleveland,Cuyahoga,41.504095,-81.604893,Case Western Reserve University,=121,40.7,53.5,41.0,47.3,OH,50 : 50,23%,9.1,2021
+Tucson,Pima,32.232866,-110.950086,University of Arizona,=124,50.3,40.4,51.7,47.6,AZ,52 : 48,9%,18.0,2021
+Houston,Harris,29.716218,-95.404977,Rice University,=124,42.9,77.3,38.4,48.0,TX,42 : 58,28%,9.2,2021
+Boulder,Boulder,40.004415,-105.267061,University of Colorado Boulder,=131,42.0,47.5,45.9,43.8,CO,44 : 56,11%,16.1,2021
+Rochester,Monroe,43.126397,-77.631202,University of Rochester,=147,41.4,69.8,35.2,45.4,NY,49 : 51,34%,4.9,2021
+Gainesville,Alachua,29.638248,-82.361195,University of Florida,=152,56.1,40.5,60.4,54.2,FL,56 : 44,9%,16.1,2021
+Medford,Middlesex,42.406004,-71.120641,Tufts University,=155,38.5,50.0,33.0,46.7,MA,55 : 45,16%,9.7,2021
+Birmingham,Jefferson,33.50223,-86.80917,University of Alabama at Birmingham,169,78.6,38.4,35.5,38.4,AL,63 : 37,6%,17.3,2021
+Notre Dame,St. Joseph,41.699587,-86.237075,University of Notre Dame,=170,38.1,57.3,45.5,52.1,IN,46 : 54,12%,10.9,2021
+Washington,District of Columbia,38.899096,-77.046277,George Washington University,=187,34.4,55.9,33.3,46.9,DC,60 : 40,17%,13.4,2021
+Waltham,Middlesex,42.364947,-71.254716,Brandeis University,201–250,34.7,55.8,24.4,28.1,MA,58 : 42,27%,12.7,2021
+Washington,District of Columbia,38.920739,-77.019478,Howard University,201–250,33.3,35.0,17.0,43.9,DC,67 : 33,8%,9.3,2021
+Iowa City,Johnson,41.660695,-91.535698,University of Iowa,201–250,50.6,46.1,30.2,42.3,IA,53 : 47,10%,11.6,2021
+Coral Gables,Miami-Dade,25.720406,-80.27645,University of Miami,201–250,40.5,60.6,25.0,45.1,FL,52 : 48,16%,6.3,2021
+Salt Lake City,Salt Lake,40.762484,-111.846044,University of Utah,201–250,56.4,32.8,31.8,38.3,UT,48 : 52,8%,14.8,2021
+Blacksburg,Montgomery,37.229906,-80.419988,Virginia Polytechnic Institute and State University,201–250,47.8,55.6,42.4,36.2,VA,43 : 57,14%,18.4,2021
+Buffalo,Erie,42.955292,-78.819555,University at Buffalo,251–300,44.7,64.6,34.0,36.8,NY,44 : 56,16%,17.5,2021
+Tallahassee,Leon,30.443222,-84.301554,Florida State University,251–300,38.7,45.9,40.1,37.9,FL,57 : 43,7%,25.8,2021
+Fairfax,Fairfax,38.83088,-77.30794,George Mason University,251–300,35.0,47.8,28.9,31.0,VA,53 : 47,11%,18.1,2021
+Fort Lauderdale,Broward,26.079337,-80.24248,Nova Southeastern University,251–300,33.3,29.3,11.5,38.7,FL,70 : 30,6%,21.2,2021
+Winston Salem,Forsyth,36.135301,-80.279004,Wake Forest University,251–300,42.2,32.6,20.5,39.1,NC,54 : 46,10%,4.1,2021
+Chestnut Hill,Middlesex,42.336203,-71.169242,Boston College,301–350,33.5,44.0,33.3,48.2,MA,54 : 46,11%,15.5,2021
+Newark,New Castle,39.678028,-75.752833,University of Delaware,301–350,95.1,48.9,39.7,27.9,DE,57 : 43,10%,17.1,2021
+Chicago,Cook,41.833801,-87.628346,Illinois Institute of Technology,301–350,36.4,75.7,27.3,42.2,IL,36 : 64,49%,14.5,2021
+Eugene,Lane,44.044515,-123.07398,University of Oregon,301–350,34.3,35.9,24.2,33.0,OR,54 : 46,10%,10.6,2021
+Chicago,Cook,41.873493,-87.669466,Rush University,301–350,41.7,21.3,14.6,39.9,IL,74 : 26,2%,2.2,2021
+Stony Brook,Suffolk,40.91554,-73.12112,Stony Brook University,301–350,34.7,71.8,24.5,33.3,NY,50 : 50,23%,10.6,2021
+Syracuse,Onondaga,43.039891,-76.13267,Syracuse University,301–350,34.9,49.6,28.3,34.7,NY,53 : 47,20%,15.0,2021
+Philadelphia,Philadelphia,39.980712,-75.158452,Temple University,301–350,33.3,39.2,25.3,38.8,PA,53 : 47,9%,13.1,2021
+Pullman,Whitman,46.730448,-117.158168,Washington State University,301–350,49.4,49.3,30.5,32.1,WA,53 : 47,7%,18.4,2021
+Philadelphia,Philadelphia,39.954855,-75.188745,Drexel University,351–400,43.0,50.3,22.3,35.7,PA,51 : 49,16%,11.4,2021
+Lawrence,Douglas,38.956474,-95.258651,University of Kansas,351–400,44.0,48.4,24.8,36.6,KS,52 : 48,9%,9.9,2021
+Detroit,Wayne,42.35861,-83.072864,Wayne State University,351–400,48.1,37.4,18.4,33.6,MI,57 : 43,7%,11.6,2021
+Fairbanks,Fairbanks North Star,64.855573,-147.825921,University of Alaska Fairbanks,401–500,41.3,55.7,24.1,28.8,AK,52 : 48,5%,8.2,2021
+Washington,District of Columbia,38.936981,-77.088785,American University,401–500,38.7,34.6,17.6,39.5,DC,63 : 37,13%,13.5,2021
+Worcester,Worcester,42.250778,-71.823632,Clark University,401–500,33.3,57.8,22.2,23.9,MA,60 : 40,23%,11.5,2021
+Golden,Jefferson,39.749092,-105.222907,Colorado School of Mines,401–500,46.0,41.0,26.2,30.8,CO,30 : 70,11%,17.2,2021
+Storrs,Tolland,41.807658,-72.256961,University of Connecticut,401–500,36.7,53.0,28.8,34.7,CT,52 : 48,11%,13.2,2021
+Denver,Denver,39.681439,-104.961532,University of Denver,401–500,34.7,27.5,22.8,40.2,CO,57 : 43,8%,12.6,2021
+Miami,Miami-Dade,25.757111,-80.377591,Florida International University,401–500,34.4,39.6,27.1,30.6,FL,58 : 42,8%,23.7,2021
+Athens,Clarke,33.937727,-83.37143,University of Georgia,401–500,36.2,46.3,36.1,40.3,GA,57 : 43,7%,16.6,2021
+Atlanta,Fulton,33.7527,-84.38667,Georgia State University,401–500,34.4,37.0,26.9,32.1,GA,58 : 42,6%,15.3,2021
+Ames,Story,42.025303,-93.65024,Iowa State University,401–500,49.5,57.0,32.3,30.7,IA,44 : 56,12%,18.1,2021
+Lexington,Fayette,38.028761,-84.502517,University of Kentucky,401–500,38.1,38.1,26.6,36.6,KY,56 : 44,4%,13.3,2021
+Rolla,Phelps,37.955853,-91.7759,Missouri University of Science and Technology,401–500,54.6,65.9,25.5,25.2,MO,24 : 76,12%,21.6,2021
+Lincoln,Lancaster,40.821787,-96.700663,University of Nebraska-Lincoln,401–500,36.9,58.0,27.3,26.1,NE,48 : 52,12%,16.6,2021
+Corvallis,Benton,44.563109,-123.278711,Oregon State University,401–500,36.3,53.2,29.5,29.6,OR,47 : 53,11%,16.6,2021
+Columbia,Richland,33.996677,-81.026916,University of South Carolina-Columbia,401–500,35.0,44.6,27.5,33.6,SC,54 : 46,6%,16.4,2021
+Hempstead,Nassau,40.715959,-73.60078,Hofstra University,501–600,33.3,30.9,15.1,26.6,NY,57 : 43,9%,13.5,2021
+Houston,Harris,29.719988,-95.344851,University of Houston,501–600,37.0,43.4,25.4,33.0,TX,50 : 50,9%,26.0,2021
+Omaha,Douglas,41.255088,-95.976346,University of Nebraska Medical Center,501–600,37.3,45.2,12.7,34.6,NE,64 : 36,8%,2.6,2021
+Newark,Essex,40.741997,-74.177113,New Jersey Institute of Technology,501–600,35.4,86.0,19.0,22.6,NJ,26 : 74,27%,14.8,2021
+Flagstaff,Coconino,35.188875,-111.655559,Northern Arizona University,501–600,34.0,32.6,14.2,20.5,AZ,61 : 39,5%,27.6,2021
+Troy,Rensselaer,42.728983,-73.678768,Rensselaer Polytechnic Institute,501–600,55.8,56.6,25.9,29.3,NY,32 : 68,21%,14.5,2021
+Hoboken,Hudson,40.744776,-74.025334,Stevens Institute of Technology,501–600,38.3,70.6,19.4,22.2,NJ,29 : 71,38%,17.9,2021
+San Antonio,Bexar,29.582418,-98.621386,The University of Texas at San Antonio,501–600,35.5,36.5,20.1,19.3,TX,51 : 49,4%,25.1,2021
+Tuscaloosa,Tuscaloosa,33.2144,-87.545766,The University of Alabama,601–800,34.4,29.3,17.5,26.9,AL,56 : 44,4%,22.4,2021
+Huntsville,Madison,34.722818,-86.63842,University of Alabama in Huntsville,601–800,70.2,43.9,20.9,20.8,AL,44 : 56,7%,18.0,2021
+Fayetteville,Washington,36.065642,-94.177852,University of Arkansas,601–800,36.0,29.8,26.9,27.7,AR,53 : 47,5%,19.9,2021
+Auburn University,Lee,32.600201,-85.492409,Auburn University,601–800,40.0,45.7,21.4,30.7,AL,50 : 50,9%,19.0,2021
+Orlando,Orange,28.602159,-81.200889,University of Central Florida,601–800,43.6,33.2,28.9,25.0,FL,56 : 44,4%,35.7,2021
+Orange,Orange,33.793678,-117.851481,Chapman University,601–800,36.8,35.9,12.8,38.1,CA,60 : 40,7%,12.8,2021
+Clemson,Pickens,34.677329,-82.834463,Clemson University,601–800,38.3,39.5,21.0,25.3,SC,48 : 52,7%,16.1,2021
+Omaha,Douglas,41.265354,-95.9478,Creighton University,601–800,34.6,25.8,12.2,41.4,NE,58 : 42,5%,11.2,2021
+Moscow,Latah,46.726894,-117.024296,University of Idaho,601–800,35.3,48.1,21.8,32.5,ID,49 : 51,8%,17.3,2021
+Manhattan,Riley,39.188616,-96.581077,Kansas State University,601–800,42.4,45.7,19.9,24.3,KS,50 : 50,8%,14.1,2021
+Bethlehem,Northampton,40.606626,-75.377095,Lehigh University,601–800,38.1,63.4,20.7,27.9,PA,45 : 55,19%,11.0,2021
+Saint Louis,St. Louis,38.711297,-90.308886,University of Missouri-St Louis,601–800,42.8,39.0,18.4,27.7,MO,58 : 42,5%,15.5,2021
+Bozeman,Gallatin,45.666829,-111.049918,Montana State University,601–800,42.7,28.1,18.3,20.2,MT,47 : 53,3%,17.6,2021
+Greensboro,Guilford,36.067503,-79.809844,University of North Carolina at Greensboro,601–800,33.6,22.4,19.7,22.2,NC,66 : 34,4%,21.5,2021
+Kingston,Washington,41.489334,-71.528708,University of Rhode Island,601–800,33.4,38.0,16.9,23.1,RI,58 : 42,3%,15.0,2021
+San Diego,San Diego,32.77525,-117.071228,San Diego State University,601–800,34.3,33.6,11.4,23.7,CA,55 : 45,8%,29.9,2021
+Lubbock,Lubbock,33.580451,-101.877129,Texas Tech University,601–800,35.3,49.2,20.3,29.1,TX,47 : 53,9%,20.9,2021
+Toledo,Lucas,41.657246,-83.615936,University of Toledo,601–800,42.7,46.4,13.7,31.6,OH,51 : 49,10%,15.5,2021
+Bellingham,Whatcom,48.737379,-122.485016,Western Washington University,601–800,33.5,26.4,10.2,15.9,WA,58 : 42,1%,18.4,2021
+Milwaukee,Milwaukee,43.076848,-87.880488,University of Wisconsin-Milwaukee,601–800,35.2,33.4,22.7,21.8,WI,54 : 46,6%,18.7,2021
+Worcester,Worcester,42.274953,-71.807916,Worcester Polytechnic Institute,601–800,35.3,54.3,17.7,24.5,MA,35 : 65,22%,12.5,2021
+Waco,McLennan,31.54615,-97.118453,Baylor University,801–1000,34.1,35.6,14.5,29.7,TX,58 : 42,6%,15.3,2021
+Tallahassee,Leon,30.427513,-84.288441,Florida Agricultural and Mechanical University,801–1000,33.9,28.3,11.6,34.5,FL,66 : 34,1%,15.3,2021
+Boca Raton,Palm Beach,26.372421,-80.102978,Florida Atlantic University,801–1000,38.9,44.8,17.7,19.6,FL,57 : 43,10%,18.5,2021
+Melbourne,Brevard,28.064503,-80.624628,Florida Institute of Technology,801–1000,37.6,57.1,14.4,23.4,FL,34 : 66,33%,14.3,2021
+Ruston,Lincoln,32.525518,-92.64964,Louisiana Tech University,801–1000,35.1,33.5,11.6,16.9,LA,44 : 56,4%,25.4,2021
+Milwaukee,Milwaukee,43.037183,-87.931088,Marquette University,801–1000,35.4,26.2,15.5,36.3,WI,55 : 45,4%,11.9,2021
+Memphis,Shelby,35.122076,-89.937883,University of Memphis,801–1000,34.8,25.4,17.4,26.0,TN,59 : 41,3%,14.2,2021
+Mississippi State,Oktibbeha,33.451697,-88.790826,Mississippi State University,801–1000,45.8,28.4,17.6,21.1,MS,51 : 49,3%,19.1,2021
+New York,New York,40.735047,-73.994807,The New School,801–1000,38.0,50.1,15.3,25.5,NY,72 : 28,35%,9.5,2021
+Norfolk,Norfolk,36.884919,-76.309653,Old Dominion University,801–1000,33.3,30.3,19.7,23.4,VA,56 : 44,3%,18.2,2021
+Portland,Multnomah,45.511698,-122.684197,Portland State University,801–1000,34.6,30.3,18.7,21.4,OR,56 : 44,8%,18.4,2021
+Rochester,Monroe,43.084436,-77.673854,Rochester Institute of Technology,801–1000,34.6,41.8,18.2,20.1,NY,35 : 65,17%,15.7,2021
+Vermillion,Clay,42.784676,-96.926533,University of South Dakota,801–1000,34.9,25.8,15.4,34.2,SD,,3%,15.8,2021
+Carbondale,Jackson,37.717389,-89.221214,Southern Illinois University Carbondale,801–1000,45.1,34.3,18.9,31.3,IL,48 : 52,8%,14.9,2021
+Greenville,Pitt,35.606347,-77.366199,East Carolina University,1001+,37.5,29.2,12.6,22.1,NC,58 : 42,2%,14.5,2021
+Harrisonburg,Harrisonburg,38.435332,-78.871663,James Madison University,1001+,33.6,27.7,11.3,18.1,VA,60 : 40,2%,17.9,2021
+Baltimore,Baltimore,39.344235,-76.584238,Morgan State University,1001+,33.4,48.7,10.0,18.2,MD,54 : 46,13%,13.8,2021
+Wilmington,New Hanover,34.225223,-77.875527,University of North Carolina Wilmington,1001+,34.4,27.5,8.2,16.2,NC,62 : 38,2%,18.8,2021
+Rochester Hills,Oakland,42.674569,-83.216414,Oakland University,1001+,33.8,30.8,13.9,27.2,MI,57 : 43,4%,18.1,2021
+Kalamazoo,Kalamazoo,42.280799,-85.613482,Western Michigan University,1001+,33.6,34.6,15.4,20.2,MI,52 : 48,7%,21.8,2021
+Tempe,Maricopa,33.4172,-111.9355,Arizona State University (Tempe),=184,37.1,62.8,47.8,38.2,AZ,43 : 57,20%,19.7,2021
+Bowling Green,Wood,41.377,-83.6376,Bowling Green State University,801–1000,33.4,26.0,13.1,20.0,OH,57 : 43,4%,16.3,2021
+Fort Collins,Larimer,39.7448,-104.9887,"Colorado State University, Fort Collins",401–500,39.0,38.3,24.7,28.9,CO,53 : 47,6%,16.1,2021
+New York,New York,40.8075,-73.9619,Columbia University,17,45.0,79.8,82.9,85.1,NY,,39%,5.7,2021
+Atlanta,Fulton,33.7756,-84.3963,Georgia Institute of Technology,38,65.8,78.9,76.8,59.5,GA,33 : 67,27%,23.6,2021
+Bloomington,Monroe,39.1678,-86.5235,Indiana University,=140,51.7,53.6,48.8,49.8,IN,51 : 49,15%,15.0,2021
+Kent,Portage,41.1516,-81.337,Kent State University,801–1000,33.8,39.5,17.6,22.4,TX,60 : 40,7%,17.6,2021
+Baton Rouge,East Baton Rouge,30.4127,-91.1807,Louisiana State University,501–600,35.2,38.2,23.2,32.6,LA,53 : 47,6%,20.0,2021
+Columbia,Boone,38.941,-92.3264,Mizzou - University of Missouri,401–500,34.8,41.5,25.7,35.3,MO,53 : 47,5%,12.5,2021
+Las Cruces,Doña Ana,32.2829,-106.7478,New Mexico State University (Main campus),601–800,37.0,37.4,19.7,23.2,NY,55 : 45,7%,16.3,2021
+Raleigh,Wake,35.7851,-78.6744,North Carolina State University,301–350,42.6,59.0,36.3,36.6,NC,46 : 54,15%,12.5,2021
+Boston,Suffolk,42.3395,-71.0878,"Northeastern University, US",=176,36.5,76.0,29.1,36.7,MA,48 : 52,36%,14.1,2021
+Columbus,Franklin,39.9995,-83.0082,Ohio State University (Main campus),=80,53.3,60.1,54.2,55.6,OH,50 : 50,13%,12.1,2021
+Athens,Athens,39.3237,-82.1035,Ohio University (Main campus),601–800,34.9,29.6,17.8,28.7,OH,56 : 44,5%,23.0,2021
+Stillwater,Payne,36.123,-97.0696,Oklahoma State University,401–500,39.4,44.1,20.4,28.6,OK,50 : 50,7%,15.4,2021
+Portland,Multnomah,45.4988,-122.686,Oregon Health and Science University,251–300,46.1,27.8,17.4,36.5,OR,66 : 34,3%,1.0,2021
+West Lafayette,Tippecanoe,40.4281,-86.9143,Purdue University West Lafayette,=94,69.9,71.5,65.5,57.1,IN,43 : 57,22%,16.3,2021
+New Brunswick,Middlesex,40.4995,-74.447,Rutgers University – New Brunswick,166,40.4,52.5,48.5,47.3,NJ,52 : 48,17%,11.0,2021
+Albany,Albany,42.6869,-73.8249,SUNY University at Albany,251–300,40.1,50.6,27.5,24.2,NY,53 : 47,9%,16.6,2021
+College Station,Brazos,30.6107,-96.3491,Texas A&M University,197,44.9,56.1,51.6,47.4,TX,47 : 53,8%,24.4,2021
+San Marcos,Hays,29.888,-97.9391,Texas State University,1001+,36.4,32.4,16.5,18.4,TX,59 : 41,1%,19.4,2021
+Chicago,Cook,41.7901,-87.6009,The University of Chicago,10,54.9,74.0,90.5,88.9,IL,46 : 54,31%,5.9,2021
+Knoxville,Knox,35.9551,-83.92966,The University of Tennessee-Knoxville,301–350,43.7,46.7,24.2,33.1,TN,,5%,16.6,2021
+New Orleans,Orleans,29.9397,-90.1203,Tulane University,301–350,35.8,43.2,24.1,42.9,LA,58 : 42,11%,9.1,2021
+Berkeley,Alameda,37.8757,-122.2484,"University of California, Berkeley",7,84.3,72.3,97.2,85.8,CA,51 : 49,17%,19.8,2021
+Davis,Yolo,38.5381,-121.751,"University of California, Davis",=64,50.4,66.9,66.2,60.5,CA,58 : 42,17%,13.6,2021
+Irvine,Orange,33.6431,-117.8378,"University of California, Irvine",=98,53.2,72.4,47.5,43.5,CA,52 : 48,27%,17.5,2021
+Los Angeles,Los Angeles,34.0688,-118.4439,"University of California, Los Angeles",15,57.6,65.3,90.2,82.5,CA,55 : 45,17%,10.0,2021
+Merced,Merced,37.3662,-120.4249,"University of California, Merced",301–350,38.8,43.9,23.0,21.6,CA,51 : 49,9%,21.2,2021
+Riverside,Riverside,33.9745,-117.3287,"University of California, Riverside",251–300,37.5,65.7,30.3,31.2,CA,53 : 47,14%,17.7,2021
+San Diego,San Diego,32.881,-117.2377,"University of California, San Diego",33,95.6,64.4,80.4,60.3,CA,47 : 53,30%,12.0,2021
+Santa Barbara,Santa Barbara,34.4123,-119.8514,"University of California, Santa Barbara",68,81.8,70.0,59.6,45.8,CA,53 : 47,18%,28.2,2021
+Santa Cruz,Santa Cruz,36.999,-122.0607,"University of California, Santa Cruz",201–250,38.9,63.6,31.9,31.4,CA,49 : 51,12%,23.8,2021
+Denver,Denver,39.7452,-104.8393,University of Colorado Denver/Anschutz Medical Campus,301–350,41.0,29.9,19.1,32.7,CO,56 : 44,8%,4.0,2021
+Honolulu,Honolulu,21.2972,-157.8162,University of Hawai’i at Mānoa,201–250,52.5,65.5,39.3,37.0,HI,57 : 43,10%,10.6,2021
+Chicago,Cook,41.8718,-87.6505,University of Illinois Chicago,251–300,42.6,55.7,33.0,43.7,IL,52 : 48,20%,11.5,2021
+Baltimore,Baltimore,39.2567,-76.7115,"University of Maryland, Baltimore County",601–800,34.6,36.4,22.9,22.2,MD,45 : 55,8%,18.6,2021
+College Park,Prince George's,38.9886,-76.9396,"University of Maryland, College Park",90,38.9,42.9,58.8,47.4,MD,48 : 52,11%,16.6,2021
+Amherst,Hampshire,42.3886,-72.5293,University of Massachusetts,201–250,50.7,64.1,32.0,37.3,MA,48 : 52,15%,13.3,2021
+Minneapolis,Hennepin,44.9778,-93.2353,University of Minnesota,=85,80.3,40.7,59.0,55.1,MN,53 : 47,11%,12.4,2021
+Missoula,Missoula,46.861,-113.9829,University of Montana,501–600,33.8,28.0,20.4,35.5,MT,57 : 43,2%,16.2,2021
+Las Vegas,Clark,36.1069,-115.1411,"University of Nevada, Las Vegas",601–800,34.1,31.4,22.6,27.2,IN,57 : 43,5%,22.4,2021
+Albuquerque,Bernalillo,35.0838,-106.6201,University of New Mexico (Main campus),251–300,42.3,33.5,30.2,39.8,NM,56 : 44,5%,16.3,2021
+Pittsburgh,Allegheny,40.4426,-79.9541,University of Pittsburgh-Pittsburgh campus,=133,40.6,41.7,42.8,45.5,PA,53 : 47,11%,5.7,2021
+Arlington,Tarrant,32.7291,-97.1151,University of Texas at Arlington,601–800,40.2,46.6,19.3,21.5,TX,57 : 43,14%,27.7,2021
+Austin,Travis,30.2838,-97.7364,University of Texas at Austin,44,46.2,39.4,74.8,67.9,TX,52 : 48,10%,16.9,2021
+Richardson,Dallas,32.9894,-96.7487,University of Texas at Dallas,301–350,39.6,59.8,27.7,25.0,TX,43 : 57,23%,20.8,2021
+El Paso,El Paso,31.7717,-106.5035,University of Texas at El Paso,801–1000,33.4,41.8,22.7,21.0,TX,53 : 47,8%,23.7,2021
+Charlottesville,Albemarle,38.0339,-78.5118,University of Virginia (Main campus),117,41.9,50.2,43.3,52.1,VA,52 : 48,13%,9.0,2021
+Seattle,King,47.6557,-122.3108,University of Washington,29,45.6,60.9,80.5,69.8,WA,53 : 47,17%,10.7,2021
+Williamsburg,James City,37.2732,-76.7196,William & Mary,251–300,34.5,38.2,19.8,46.1,VA,56 : 44,9%,11.1,2021
+Pasadena,Los Angeles,34.139181,-118.125567,California Institute of Technology,2,88.0,82.5,97.2,92.1,CA,34 : 66,30%,6.4,2020
+Stanford,Santa Clara,37.432974,-122.175045,Stanford University,4,66.2,79.5,96.4,92.8,CA,43 : 57,23%,7.3,2020
+Cambridge,Middlesex,42.360095,-71.092115,Massachusetts Institute of Technology,5,86.9,89.0,92.4,90.5,MA,39 : 61,34%,8.6,2020
+Princeton,Mercer,40.347141,-74.657698,Princeton University,6,58.6,81.1,96.3,90.3,NJ,45 : 55,25%,8.1,2020
+Cambridge,Middlesex,42.374172,-71.118234,Harvard University,7,47.3,76.3,98.6,89.2,MA,49 : 51,24%,9.2,2020
+New Haven,New Haven,41.312308,-72.922511,Yale University,8,52.4,68.7,94.8,92.0,CT,50 : 50,20%,5.4,2020
+Philadelphia,Philadelphia,39.951002,-75.193618,University of Pennsylvania,11,74.0,65.0,90.4,87.5,PA,52 : 48,21%,6.5,2020
+Baltimore,Baltimore,39.329808,-76.620723,Johns Hopkins University,12,91.3,73.2,91.4,81.7,MD,52 : 48,26%,4.5,2020
+Ithaca,Tompkins,42.448713,-76.476535,Cornell University,19,37.1,73.4,86.0,79.7,NY,49 : 51,25%,9.8,2020
+Durham,Durham,36.002344,-78.938597,Duke University,20,99.9,61.5,76.8,82.4,NC,49 : 51,19%,4.3,2020
+Ann Arbor,Washtenaw,42.27803,-83.736564,University of Michigan-Ann Arbor,21,47.7,59.2,86.1,79.4,MI,49 : 51,17%,8.3,2020
+Evanston,Cook,42.058377,-87.673653,Northwestern University,22,78.4,64.1,83.8,74.2,IL,49 : 51,20%,12.8,2020
+Pittsburgh,Allegheny,40.443598,-79.943485,Carnegie Mellon University,=27,50.5,80.6,82.7,65.9,PA,41 : 59,48%,13.6,2020
+New York,New York,40.729452,-73.997264,New York University,29,38.7,65.4,77.5,76.8,NY,57 : 43,33%,8.9,2020
+Champaign,Champaign,40.108312,-88.228482,University of Illinois at Urbana-Champaign,=48,47.9,54.3,78.0,63.2,IL,47 : 53,24%,17.9,2020
+Madison,Dane,43.073858,-89.405356,University of Wisconsin-Madison,51,46.3,47.4,70.3,68.8,WI,,13%,10.0,2020
+Saint Louis,St. Louis,38.648125,-90.311639,Washington University in St Louis,52,40.7,57.1,57.5,64.2,MO,,20%,7.5,2020
+Providence,Providence,41.826853,-71.402925,Brown University,53,36.5,61.4,56.1,64.0,RI,,20%,10.8,2020
+Chapel Hill,Orange,35.912165,-79.050969,University of North Carolina at Chapel Hill,54,43.9,38.0,63.2,59.7,NC,57 : 43,8%,9.4,2020
+Boston,Suffolk,42.349581,-71.09984,Boston University,61,41.4,64.4,55.6,57.3,MA,60 : 40,27%,11.6,2020
+Los Angeles,Los Angeles,34.021058,-118.283858,University of Southern California,=62,39.7,66.2,59.3,54.7,CA,53 : 47,25%,11.7,2020
+Atlanta,DeKalb,33.798836,-84.325782,Emory University,=80,45.4,57.9,40.4,56.0,GA,58 : 42,20%,4.0,2020
+East Lansing,Ingham,42.72476,-84.473639,Michigan State University,84,37.8,63.3,57.4,56.6,MI,51 : 49,16%,16.5,2020
+Hanover,Grafton,43.705524,-72.288842,Dartmouth College,=94,41.0,39.6,39.9,58.4,NH,49 : 51,15%,7.7,2020
+Washington,District of Columbia,38.908809,-77.073463,Georgetown University,=102,62.5,47.2,37.9,57.3,DC,54 : 46,18%,8.5,2020
+Tucson,Pima,32.232866,-110.950086,University of Arizona,104,52.7,40.2,53.7,52.6,AZ,52 : 48,10%,18.4,2020
+Houston,Harris,29.716218,-95.404977,Rice University,=105,45.4,77.0,39.7,49.1,TX,42 : 58,28%,8.9,2020
+Nashville,Davidson,36.14443,-86.804875,Vanderbilt University,116,47.5,43.0,42.1,48.7,TN,54 : 46,14%,3.0,2020
+Cleveland,Cuyahoga,41.504095,-81.604893,Case Western Reserve University,119,42.1,52.2,39.9,48.4,OH,50 : 50,23%,8.8,2020
+Boulder,Boulder,40.004415,-105.267061,University of Colorado Boulder,124,41.7,47.3,45.6,44.8,CO,44 : 56,11%,16.3,2020
+Medford,Middlesex,42.406004,-71.120641,Tufts University,=139,38.6,49.6,34.2,49.1,MA,55 : 45,16%,9.8,2020
+Notre Dame,St. Joseph,41.699587,-86.237075,University of Notre Dame,=157,38.1,55.3,46.2,52.9,IN,45 : 55,12%,13.7,2020
+Birmingham,Jefferson,33.50223,-86.80917,University of Alabama at Birmingham,172,74.8,37.4,33.6,39.2,AL,62 : 38,6%,16.7,2020
+Rochester,Monroe,43.126397,-77.631202,University of Rochester,=173,40.9,67.2,30.3,43.4,NY,49 : 51,31%,4.2,2020
+Gainesville,Alachua,29.638248,-82.361195,University of Florida,=175,57.9,40.0,53.8,54.0,FL,55 : 45,10%,16.8,2020
+Washington,District of Columbia,38.899096,-77.046277,George Washington University,=198,35.0,55.5,32.4,48.6,DC,60 : 40,18%,13.1,2020
+Waltham,Middlesex,42.364947,-71.254716,Brandeis University,201–250,35.6,53.4,22.9,28.5,MA,57 : 43,27%,12.2,2020
+Washington,District of Columbia,38.920739,-77.019478,Howard University,201–250,34.4,34.0,15.3,42.8,DC,65 : 35,8%,7.5,2020
+Iowa City,Johnson,41.660695,-91.535698,University of Iowa,201–250,54.0,46.5,29.5,43.1,IA,52 : 48,12%,11.6,2020
+Coral Gables,Miami-Dade,25.720406,-80.27645,University of Miami,201–250,41.3,59.1,25.2,44.0,FL,52 : 48,16%,6.3,2020
+Salt Lake City,Salt Lake,40.762484,-111.846044,University of Utah,201–250,48.3,33.0,34.7,39.0,UT,47 : 53,8%,14.2,2020
+Blacksburg,Montgomery,37.229906,-80.419988,Virginia Polytechnic Institute and State University,201–250,47.5,54.0,42.3,37.5,VA,43 : 57,14%,18.3,2020
+Winston Salem,Forsyth,36.135301,-80.279004,Wake Forest University,201–250,43.6,31.2,18.8,42.8,NC,53 : 47,9%,4.0,2020
+Buffalo,Erie,42.955292,-78.819555,University at Buffalo,251–300,42.1,64.7,32.7,37.2,NY,44 : 56,17%,17.4,2020
+Newark,New Castle,39.678028,-75.752833,University of Delaware,251–300,90.6,47.2,38.2,28.5,DE,57 : 43,10%,17.0,2020
+Tallahassee,Leon,30.443222,-84.301554,Florida State University,251–300,39.4,43.5,40.1,38.0,FL,56 : 44,7%,24.1,2020
+Fairfax,Fairfax,38.83088,-77.30794,George Mason University,251–300,35.8,46.2,26.3,29.9,VA,54 : 46,10%,18.0,2020
+Eugene,Lane,44.044515,-123.07398,University of Oregon,251–300,34.7,37.0,29.3,34.0,OR,54 : 46,12%,10.8,2020
+Syracuse,Onondaga,43.039891,-76.13267,Syracuse University,251–300,35.3,48.7,29.6,35.1,NY,53 : 47,20%,15.7,2020
+Chestnut Hill,Middlesex,42.336203,-71.169242,Boston College,301–350,34.4,42.3,33.7,36.7,MA,55 : 45,11%,15.7,2020
+Golden,Jefferson,39.749092,-105.222907,Colorado School of Mines,301–350,46.6,42.1,25.1,30.1,CO,29 : 71,11%,16.7,2020
+Fort Lauderdale,Broward,26.079337,-80.24248,Nova Southeastern University,301–350,34.4,29.5,10.3,33.8,FL,69 : 31,6%,23.4,2020
+Chicago,Cook,41.873493,-87.669466,Rush University,301–350,41.3,19.7,12.9,37.2,IL,74 : 26,1%,2.0,2020
+Stony Brook,Suffolk,40.91554,-73.12112,Stony Brook University,301–350,36.1,71.5,23.5,34.4,NY,50 : 50,23%,10.5,2020
+Philadelphia,Philadelphia,39.980712,-75.158452,Temple University,301–350,34.4,37.7,23.5,39.3,PA,53 : 47,9%,13.0,2020
+Fairbanks,Fairbanks North Star,64.855573,-147.825921,University of Alaska Fairbanks,351–400,43.8,53.9,25.0,27.5,AK,51 : 49,5%,8.7,2020
+Worcester,Worcester,42.250778,-71.823632,Clark University,351–400,34.4,57.5,22.7,24.0,MA,60 : 40,23%,11.5,2020
+Storrs,Tolland,41.807658,-72.256961,University of Connecticut,351–400,37.9,49.0,29.7,36.5,CT,53 : 47,9%,15.2,2020
+Denver,Denver,39.681439,-104.961532,University of Denver,351–400,35.8,27.8,22.3,40.5,CO,57 : 43,9%,13.0,2020
+Hempstead,Nassau,40.715959,-73.60078,Hofstra University,351–400,34.4,29.8,13.2,38.4,NY,57 : 43,9%,13.9,2020
+Ames,Story,42.025303,-93.65024,Iowa State University,351–400,49.6,56.7,33.0,29.5,IA,44 : 56,12%,18.8,2020
+Corvallis,Benton,44.563109,-123.278711,Oregon State University,351–400,37.7,52.9,30.1,30.9,OR,46 : 54,11%,16.0,2020
+Pullman,Whitman,46.730448,-117.158168,Washington State University,351–400,48.4,49.3,28.6,30.7,WA,52 : 48,7%,18.1,2020
+Detroit,Wayne,42.35861,-83.072864,Wayne State University,351–400,45.4,37.6,18.1,33.3,MI,55 : 45,9%,11.3,2020
+Tuscaloosa,Tuscaloosa,33.2144,-87.545766,The University of Alabama,401–500,35.3,28.9,22.4,26.9,AL,56 : 44,4%,22.5,2020
+Washington,District of Columbia,38.936981,-77.088785,American University,401–500,39.1,32.3,19.5,40.9,DC,65 : 35,12%,11.0,2020
+Philadelphia,Philadelphia,39.954855,-75.188745,Drexel University,401–500,41.5,50.3,20.4,35.8,PA,50 : 50,17%,11.1,2020
+Athens,Clarke,33.937727,-83.37143,University of Georgia,401–500,37.2,46.0,35.8,34.9,GA,57 : 43,7%,16.3,2020
+Atlanta,Fulton,33.7527,-84.38667,Georgia State University,401–500,35.4,41.9,27.2,33.9,GA,61 : 39,6%,14.4,2020
+Houston,Harris,29.719988,-95.344851,University of Houston,401–500,36.8,42.5,25.9,33.6,TX,50 : 50,9%,25.7,2020
+Lawrence,Douglas,38.956474,-95.258651,University of Kansas,401–500,43.5,35.4,22.6,36.9,KS,52 : 48,9%,9.9,2020
+Lexington,Fayette,38.028761,-84.502517,University of Kentucky,401–500,38.4,38.0,24.9,37.0,KY,55 : 45,4%,12.4,2020
+Saint Louis,St. Louis,38.711297,-90.308886,University of Missouri-St Louis,401–500,40.4,40.6,24.7,30.0,MO,58 : 42,6%,16.0,2020
+Lincoln,Lancaster,40.821787,-96.700663,University of Nebraska-Lincoln,401–500,38.6,56.7,28.0,30.1,NE,48 : 52,11%,17.2,2020
+Socorro,Socorro,34.06619,-106.907701,New Mexico Institute of Mining and Technology,401–500,78.1,62.9,14.6,22.3,NM,30 : 70,8%,11.3,2020
+Troy,Rensselaer,42.728983,-73.678768,Rensselaer Polytechnic Institute,401–500,67.0,52.1,28.7,30.0,NY,32 : 68,20%,15.6,2020
+Columbia,Richland,33.996677,-81.026916,University of South Carolina-Columbia,401–500,36.2,43.2,25.5,33.2,SC,55 : 45,5%,16.2,2020
+San Antonio,Bexar,29.582418,-98.621386,The University of Texas at San Antonio,401–500,36.2,36.4,21.1,18.1,TX,51 : 49,4%,24.5,2020
+Huntsville,Madison,34.722818,-86.63842,University of Alabama in Huntsville,501–600,68.4,44.9,22.4,22.2,AL,43 : 57,8%,16.3,2020
+Miami,Miami-Dade,25.757111,-80.377591,Florida International University,501–600,38.0,39.7,22.6,30.4,FL,57 : 43,8%,23.8,2020
+Moscow,Latah,46.726894,-117.024296,University of Idaho,501–600,36.2,45.9,21.1,33.3,ID,48 : 52,8%,17.0,2020
+Rolla,Phelps,37.955853,-91.7759,Missouri University of Science and Technology,501–600,52.9,66.0,24.6,24.2,MO,23 : 77,14%,22.2,2020
+Omaha,Douglas,41.255088,-95.976346,University of Nebraska Medical Center,501–600,38.1,43.5,12.1,35.8,NE,68 : 32,7%,2.3,2020
+Newark,Essex,40.741997,-74.177113,New Jersey Institute of Technology,501–600,36.7,76.8,19.2,21.3,NJ,25 : 75,17%,15.1,2020
+Flagstaff,Coconino,35.188875,-111.655559,Northern Arizona University,501–600,35.1,31.5,14.7,20.2,AZ,60 : 40,5%,28.1,2020
+Kingston,Washington,41.489334,-71.528708,University of Rhode Island,501–600,34.4,35.4,17.7,23.9,RI,57 : 43,3%,19.3,2020
+San Diego,San Diego,32.77525,-117.071228,San Diego State University,501–600,35.1,33.9,24.4,23.7,CA,55 : 45,8%,30.5,2020
+Milwaukee,Milwaukee,43.076848,-87.880488,University of Wisconsin-Milwaukee,501–600,36.2,33.2,22.7,21.7,WI,53 : 47,6%,19.3,2020
+Fayetteville,Washington,36.065642,-94.177852,University of Arkansas,601–800,39.4,30.9,23.0,26.9,AR,52 : 48,5%,19.8,2020
+Auburn University,Lee,32.600201,-85.492409,Auburn University,601–800,40.2,43.8,21.1,32.7,AL,51 : 49,9%,18.8,2020
+Waco,McLennan,31.54615,-97.118453,Baylor University,601–800,35.3,33.2,18.2,32.1,TX,57 : 43,6%,16.2,2020
+Orlando,Orange,28.602159,-81.200889,University of Central Florida,601–800,42.6,32.9,28.7,26.5,FL,56 : 44,4%,35.3,2020
+Clemson,Pickens,34.677329,-82.834463,Clemson University,601–800,40.1,39.2,21.2,25.0,SC,47 : 53,7%,17.0,2020
+Omaha,Douglas,41.265354,-95.9478,Creighton University,601–800,35.7,29.8,11.6,42.0,NE,58 : 42,8%,11.1,2020
+Manhattan,Riley,39.188616,-96.581077,Kansas State University,601–800,41.9,47.2,20.4,25.0,KS,50 : 50,9%,14.3,2020
+Bethlehem,Northampton,40.606626,-75.377095,Lehigh University,601–800,40.3,45.1,20.8,27.4,PA,44 : 56,17%,10.8,2020
+Bozeman,Gallatin,45.666829,-111.049918,Montana State University,601–800,48.4,28.4,19.4,18.6,MT,46 : 54,3%,19.4,2020
+Greensboro,Guilford,36.067503,-79.809844,University of North Carolina at Greensboro,601–800,35.4,21.3,19.3,20.9,NC,66 : 34,4%,22.2,2020
+Norfolk,Norfolk,36.884919,-76.309653,Old Dominion University,601–800,34.4,30.4,19.2,22.7,VA,55 : 45,3%,18.2,2020
+Portland,Multnomah,45.511698,-122.684197,Portland State University,601–800,35.7,30.4,18.4,21.1,OR,55 : 45,9%,18.4,2020
+Vermillion,Clay,42.784676,-96.926533,University of South Dakota,601–800,39.0,25.3,15.6,31.2,SD,61 : 39,3%,35.1,2020
+Hoboken,Hudson,40.744776,-74.025334,Stevens Institute of Technology,601–800,35.6,68.7,15.8,22.5,NJ,29 : 71,38%,16.7,2020
+Lubbock,Lubbock,33.580451,-101.877129,Texas Tech University,601–800,36.2,48.4,20.9,30.8,TX,46 : 54,9%,20.6,2020
+Toledo,Lucas,41.657246,-83.615936,University of Toledo,601–800,42.8,46.2,13.9,33.7,OH,51 : 49,11%,15.5,2020
+Bellingham,Whatcom,48.737379,-122.485016,Western Washington University,601–800,34.5,22.9,10.6,16.2,WA,57 : 43,1%,17.7,2020
+Morgantown,Monongalia,39.63468,-79.953926,West Virginia University,601–800,34.4,40.8,17.1,27.8,WV,48 : 52,8%,18.5,2020
+Worcester,Worcester,42.274953,-71.807916,Worcester Polytechnic Institute,601–800,36.5,56.2,17.7,20.1,MA,34 : 66,22%,12.7,2020
+Boca Raton,Palm Beach,26.372421,-80.102978,Florida Atlantic University,801–1000,37.9,44.6,19.1,21.0,FL,60 : 40,10%,18.3,2020
+Melbourne,Brevard,28.064503,-80.624628,Florida Institute of Technology,801–1000,37.7,56.8,14.6,22.7,FL,34 : 66,33%,14.1,2020
+Ruston,Lincoln,32.525518,-92.64964,Louisiana Tech University,801–1000,34.8,32.7,9.7,17.3,LA,46 : 54,4%,22.6,2020
+Milwaukee,Milwaukee,43.037183,-87.931088,Marquette University,801–1000,36.3,24.6,14.4,36.0,WI,53 : 47,4%,12.0,2020
+Mississippi State,Oktibbeha,33.451697,-88.790826,Mississippi State University,801–1000,40.3,25.9,15.8,21.8,MS,51 : 49,3%,19.0,2020
+New York,New York,40.735047,-73.994807,The New School,801–1000,38.4,50.3,15.2,23.9,NY,71 : 29,35%,9.4,2020
+Rochester,Monroe,43.084436,-77.673854,Rochester Institute of Technology,801–1000,35.9,41.6,18.1,20.0,NY,36 : 64,18%,15.7,2020
+Wilmington,New Hanover,34.225223,-77.875527,University of North Carolina Wilmington,1001+,35.1,26.5,7.7,15.9,NC,62 : 38,2%,19.6,2020
+Jacksonville,Duval,30.269313,-81.508308,University of North Florida,1001+,34.6,24.0,10.5,24.8,FL,57 : 43,2%,17.7,2020
+Rochester Hills,Oakland,42.674569,-83.216414,Oakland University,1001+,35.3,28.9,12.7,25.5,MI,57 : 43,4%,18.9,2020
+Tempe,Maricopa,33.4172,-111.9355,Arizona State University (Tempe),=155,38.5,61.8,50.7,39.3,AZ,43 : 57,21%,21.1,2020
+Fort Collins,Larimer,39.7448,-104.9887,"Colorado State University, Fort Collins",401–500,38.4,38.4,25.3,27.8,CO,53 : 47,6%,16.3,2020
+New York,New York,40.8075,-73.9619,Columbia University,16,44.8,79.3,82.6,85.6,NY,,37%,5.8,2020
+Atlanta,Fulton,33.7756,-84.3963,Georgia Institute of Technology,=38,61.6,77.1,76.4,60.2,GA,33 : 67,27%,18.3,2020
+Bloomington,Monroe,39.1678,-86.5235,Indiana University,=134,49.8,53.5,49.7,50.8,IN,52 : 48,15%,13.6,2020
+Kent,Portage,41.1516,-81.337,Kent State University,601–800,34.8,42.6,19.0,23.6,TX,60 : 40,9%,20.4,2020
+Baton Rouge,East Baton Rouge,30.4127,-91.1807,Louisiana State University,501–600,35.4,35.5,26.3,34.5,LA,52 : 48,6%,20.7,2020
+Columbia,Boone,38.941,-92.3264,Mizzou - University of Missouri,401–500,35.5,39.9,24.2,34.9,MO,53 : 47,6%,13.3,2020
+Las Cruces,Doña Ana,32.2829,-106.7478,New Mexico State University (Main campus),601–800,38.8,37.7,14.7,21.5,NY,54 : 46,8%,16.5,2020
+Raleigh,Wake,35.7851,-78.6744,North Carolina State University,301–350,43.2,57.8,35.3,36.7,NC,45 : 55,15%,12.5,2020
+Boston,Suffolk,42.3395,-71.0878,"Northeastern University, US",=173,38.0,75.0,27.9,38.0,MA,49 : 51,35%,13.9,2020
+Columbus,Franklin,39.9995,-83.0082,Ohio State University (Main campus),70,53.3,59.5,56.1,57.5,OH,50 : 50,13%,12.5,2020
+Athens,Athens,39.3237,-82.1035,Ohio University (Main campus),601–800,35.4,30.6,17.4,28.5,OH,56 : 44,5%,22.3,2020
+Stillwater,Payne,36.123,-97.0696,Oklahoma State University,401–500,36.9,44.3,21.5,24.1,OK,50 : 50,7%,15.8,2020
+Portland,Multnomah,45.4988,-122.686,Oregon Health and Science University,251–300,47.6,26.6,16.7,35.7,OR,66 : 34,3%,1.0,2020
+West Lafayette,Tippecanoe,40.4281,-86.9143,Purdue University West Lafayette,88,64.3,72.0,66.4,57.5,IN,43 : 57,23%,15.7,2020
+New Brunswick,Middlesex,40.4995,-74.447,Rutgers University – New Brunswick,=168,41.1,51.5,48.5,47.8,NJ,52 : 48,17%,11.2,2020
+Albany,Albany,42.6869,-73.8249,SUNY University at Albany,351–400,40.1,49.6,35.4,24.0,NY,52 : 48,10%,16.6,2020
+College Station,Brazos,30.6107,-96.3491,Texas A&M University,178,45.3,54.3,54.8,49.3,TX,47 : 53,8%,24.8,2020
+San Marcos,Hays,29.888,-97.9391,Texas State University,1001+,36.4,30.4,14.3,17.4,TX,58 : 42,1%,19.1,2020
+Chicago,Cook,41.7901,-87.6009,The University of Chicago,9,52.7,76.0,91.4,89.1,IL,46 : 54,28%,5.7,2020
+Knoxville,Knox,35.9551,-83.92966,The University of Tennessee-Knoxville,301–350,43.9,45.7,23.4,32.9,TN,,5%,16.8,2020
+New Orleans,Orleans,29.9397,-90.1203,Tulane University,301–350,37.0,41.9,24.1,42.3,LA,57 : 43,11%,9.8,2020
+Berkeley,Alameda,37.8757,-122.2484,"University of California, Berkeley",=13,46.1,70.4,90.6,83.0,CA,50 : 50,17%,13.7,2020
+Davis,Yolo,38.5381,-121.751,"University of California, Davis",=55,51.4,62.4,66.9,62.4,CA,58 : 42,14%,12.0,2020
+Irvine,Orange,33.6431,-117.8378,"University of California, Irvine",=96,58.9,71.9,46.5,43.3,CA,52 : 48,26%,16.5,2020
+Los Angeles,Los Angeles,34.0688,-118.4439,"University of California, Los Angeles",17,51.3,64.1,88.6,83.1,CA,54 : 46,17%,9.4,2020
+Merced,Merced,37.3662,-120.4249,"University of California, Merced",351–400,38.0,42.4,21.6,17.1,CA,51 : 49,8%,20.9,2020
+Riverside,Riverside,33.9745,-117.3287,"University of California, Riverside",251–300,39.4,64.7,30.3,31.2,CA,53 : 47,14%,18.0,2020
+San Diego,San Diego,32.881,-117.2377,"University of California, San Diego",31,90.3,63.7,78.9,62.6,CA,46 : 54,23%,13.0,2020
+Santa Barbara,Santa Barbara,34.4123,-119.8514,"University of California, Santa Barbara",=57,84.5,68.1,63.6,47.9,CA,52 : 48,16%,27.6,2020
+Santa Cruz,Santa Cruz,36.999,-122.0607,"University of California, Santa Cruz",=179,39.1,60.6,34.9,33.1,CA,50 : 50,10%,23.0,2020
+Honolulu,Honolulu,21.2972,-157.8162,University of Hawai’i at Mānoa,201–250,51.5,65.5,38.9,36.3,HI,57 : 43,10%,10.8,2020
+Chicago,Cook,41.8718,-87.6505,University of Illinois Chicago,251–300,43.2,54.9,33.4,45.0,IL,52 : 48,20%,11.5,2020
+Baltimore,Baltimore,39.2567,-76.7115,"University of Maryland, Baltimore County",601–800,35.7,34.3,17.4,22.9,MD,45 : 55,8%,18.1,2020
+College Park,Prince George's,38.9886,-76.9396,"University of Maryland, College Park",=91,39.2,41.2,59.1,46.9,MD,48 : 52,11%,16.6,2020
+Amherst,Hampshire,42.3886,-72.5293,University of Massachusetts,201–250,49.9,61.7,31.1,38.5,MA,48 : 52,15%,13.0,2020
+Minneapolis,Hennepin,44.9778,-93.2353,University of Minnesota,79,78.2,40.2,59.3,55.2,MN,52 : 48,11%,12.4,2020
+Las Vegas,Clark,36.1069,-115.1411,"University of Nevada, Las Vegas",601–800,35.1,32.2,22.6,28.7,IN,57 : 43,5%,22.7,2020
+Albuquerque,Bernalillo,35.0838,-106.6201,University of New Mexico (Main campus),301–350,37.4,33.2,31.8,29.2,NM,55 : 45,5%,17.1,2020
+Pittsburgh,Allegheny,40.4426,-79.9541,University of Pittsburgh-Pittsburgh campus,=113,40.7,39.3,45.5,47.4,PA,51 : 49,11%,5.8,2020
+Arlington,Tarrant,32.7291,-97.1151,University of Texas at Arlington,601–800,39.7,46.0,18.3,21.0,TX,56 : 44,15%,25.2,2020
+Austin,Travis,30.2838,-97.7364,University of Texas at Austin,=38,46.6,39.1,76.2,68.2,TX,52 : 48,10%,17.2,2020
+Richardson,Dallas,32.9894,-96.7487,University of Texas at Dallas,301–350,39.9,60.2,29.3,23.7,TX,43 : 57,25%,21.6,2020
+El Paso,El Paso,31.7717,-106.5035,University of Texas at El Paso,801–1000,34.4,40.7,22.9,21.0,TX,53 : 47,8%,23.2,2020
+Charlottesville,Albemarle,38.0339,-78.5118,University of Virginia (Main campus),=107,41.6,48.9,43.5,54.4,VA,52 : 48,12%,8.6,2020
+Seattle,King,47.6557,-122.3108,University of Washington,26,47.5,60.4,82.2,72.2,WA,53 : 47,16%,11.1,2020
+Williamsburg,James City,37.2732,-76.7196,William & Mary,201–250,35.3,37.3,21.1,47.5,VA,55 : 45,9%,11.4,2020
+Stanford,Santa Clara,37.432974,-122.175045,Stanford University,3,64.6,79.3,96.8,93.6,CA,43 : 57,23%,7.4,2019
+Cambridge,Middlesex,42.360095,-71.092115,Massachusetts Institute of Technology,4,87.6,89.0,92.7,91.9,MA,38 : 62,34%,8.7,2019
+Pasadena,Los Angeles,34.139181,-118.125567,California Institute of Technology,5,88.2,62.3,97.2,94.5,CA,33 : 67,29%,6.5,2019
+Cambridge,Middlesex,42.374172,-71.118234,Harvard University,6,48.7,79.7,98.4,90.1,MA,48 : 52,26%,9.1,2019
+Princeton,Mercer,40.347141,-74.657698,Princeton University,7,57.3,80.1,93.6,89.9,NJ,45 : 55,24%,8.2,2019
+New Haven,New Haven,41.312308,-72.922511,Yale University,8,51.5,68.3,93.5,91.6,CT,50 : 50,20%,5.2,2019
+Baltimore,Baltimore,39.329808,-76.620723,Johns Hopkins University,=12,95.5,71.9,90.5,81.9,MD,52 : 48,25%,4.6,2019
+Philadelphia,Philadelphia,39.951002,-75.193618,University of Pennsylvania,=12,70.3,63.6,89.2,87.4,PA,52 : 48,20%,6.4,2019
+Durham,Durham,36.002344,-78.938597,Duke University,18,100.0,61.0,78.8,84.1,NC,48 : 52,18%,4.4,2019
+Ithaca,Tompkins,42.448713,-76.476535,Cornell University,19,36.9,71.8,85.4,79.7,NY,49 : 51,25%,9.8,2019
+Ann Arbor,Washtenaw,42.27803,-83.736564,University of Michigan-Ann Arbor,20,45.9,58.0,85.9,80.0,MI,48 : 52,17%,8.3,2019
+Pittsburgh,Allegheny,40.443598,-79.943485,Carnegie Mellon University,24,48.1,79.4,81.2,69.0,PA,40 : 60,47%,13.3,2019
+Evanston,Cook,42.058377,-87.673653,Northwestern University,25,75.8,63.0,83.6,69.0,IL,48 : 52,19%,13.0,2019
+New York,New York,40.729452,-73.997264,New York University,27,38.9,65.0,76.1,77.7,NY,56 : 44,32%,8.9,2019
+Madison,Dane,43.073858,-89.405356,University of Wisconsin-Madison,43,46.8,45.6,71.0,70.3,WI,,12%,10.5,2019
+Champaign,Champaign,40.108312,-88.228482,University of Illinois at Urbana-Champaign,50,49.4,53.5,73.5,63.2,IL,47 : 53,24%,17.9,2019
+Providence,Providence,41.826853,-71.402925,Brown University,53,36.2,60.4,57.3,67.3,RI,,21%,10.7,2019
+Saint Louis,St. Louis,38.648125,-90.311639,Washington University in St Louis,54,39.5,56.5,56.6,63.1,MO,,20%,7.3,2019
+Chapel Hill,Orange,35.912165,-79.050969,University of North Carolina at Chapel Hill,56,42.4,36.8,61.4,62.2,NC,57 : 43,8%,9.4,2019
+Los Angeles,Los Angeles,34.021058,-118.283858,University of Southern California,66,39.2,66.3,56.6,53.2,CA,53 : 47,25%,11.6,2019
+Boston,Suffolk,42.349581,-71.09984,Boston University,=74,36.5,62.3,44.8,56.3,MA,60 : 40,27%,8.4,2019
+Atlanta,DeKalb,33.798836,-84.325782,Emory University,=84,43.6,56.4,39.7,56.0,GA,58 : 42,20%,4.2,2019
+Houston,Harris,29.716218,-95.404977,Rice University,86,44.6,75.1,40.4,50.9,TX,42 : 58,28%,8.9,2019
+East Lansing,Ingham,42.72476,-84.473639,Michigan State University,=93,37.9,62.9,54.2,56.5,MI,51 : 49,17%,17.0,2019
+Hanover,Grafton,43.705524,-72.288842,Dartmouth College,=99,41.3,40.1,38.9,59.6,NH,48 : 52,15%,6.7,2019
+Washington,District of Columbia,38.908809,-77.073463,Georgetown University,109,64.6,46.9,36.0,56.0,DC,54 : 46,17%,8.5,2019
+Boulder,Boulder,40.004415,-105.267061,University of Colorado Boulder,=114,39.2,46.4,43.2,45.0,CO,44 : 56,12%,15.5,2019
+Nashville,Davidson,36.14443,-86.804875,Vanderbilt University,=121,47.0,41.9,39.4,46.5,TN,54 : 46,14%,3.1,2019
+Cleveland,Cuyahoga,41.504095,-81.604893,Case Western Reserve University,=132,40.8,51.5,36.2,49.2,OH,49 : 51,23%,7.8,2019
+Medford,Middlesex,42.406004,-71.120641,Tufts University,152,40.5,55.9,32.0,48.8,MA,55 : 45,19%,10.1,2019
+Gainesville,Alachua,29.638248,-82.361195,University of Florida,=156,62.6,39.9,51.2,55.3,FL,54 : 46,10%,17.5,2019
+Tucson,Pima,32.232866,-110.950086,University of Arizona,=159,49.4,44.8,43.0,43.4,AZ,52 : 48,9%,13.3,2019
+Rochester,Monroe,43.126397,-77.631202,University of Rochester,=163,41.5,63.7,31.0,45.1,NY,49 : 51,29%,4.2,2019
+Notre Dame,St. Joseph,41.699587,-86.237075,University of Notre Dame,173,37.9,53.5,41.9,50.4,IN,45 : 55,12%,13.7,2019
+Birmingham,Jefferson,33.50223,-86.80917,University of Alabama at Birmingham,179,65.9,36.6,32.9,39.4,AL,62 : 38,6%,15.3,2019
+Washington,District of Columbia,38.899096,-77.046277,George Washington University,=181,34.5,53.5,30.6,49.9,DC,58 : 42,17%,13.2,2019
+Waltham,Middlesex,42.364947,-71.254716,Brandeis University,201–250,34.6,52.4,23.6,28.5,MA,55 : 45,26%,12.5,2019
+Buffalo,Erie,42.955292,-78.819555,University at Buffalo,201–250,43.3,63.8,34.6,40.7,NY,45 : 55,17%,17.1,2019
+Iowa City,Johnson,41.660695,-91.535698,University of Iowa,201–250,54.6,37.1,33.8,42.9,IA,52 : 48,13%,12.3,2019
+Coral Gables,Miami-Dade,25.720406,-80.27645,University of Miami,201–250,39.3,60.4,25.2,41.6,FL,51 : 49,16%,5.9,2019
+Salt Lake City,Salt Lake,40.762484,-111.846044,University of Utah,201–250,40.7,33.4,33.7,36.5,UT,45 : 55,9%,14.1,2019
+Worcester,Worcester,42.250778,-71.823632,Clark University,251–300,34.3,58.9,25.5,25.1,MA,60 : 40,25%,11.9,2019
+Golden,Jefferson,39.749092,-105.222907,Colorado School of Mines,251–300,50.5,42.7,27.8,32.9,CO,28 : 72,12%,16.7,2019
+Newark,New Castle,39.678028,-75.752833,University of Delaware,251–300,91.5,46.2,37.4,28.5,DE,57 : 43,10%,16.9,2019
+Tallahassee,Leon,30.443222,-84.301554,Florida State University,251–300,39.5,43.0,40.0,38.4,FL,56 : 44,7%,24.5,2019
+Stony Brook,Suffolk,40.91554,-73.12112,Stony Brook University,251–300,35.7,70.2,22.4,34.2,NY,49 : 51,23%,10.6,2019
+Syracuse,Onondaga,43.039891,-76.13267,Syracuse University,251–300,40.6,48.3,28.3,32.0,NY,53 : 47,20%,16.0,2019
+Blacksburg,Montgomery,37.229906,-80.419988,Virginia Polytechnic Institute and State University,251–300,48.2,52.4,39.8,34.8,VA,43 : 57,14%,18.5,2019
+Winston Salem,Forsyth,36.135301,-80.279004,Wake Forest University,251–300,44.1,29.3,18.4,41.3,NC,52 : 48,7%,4.0,2019
+Fairbanks,Fairbanks North Star,64.855573,-147.825921,University of Alaska Fairbanks,301–350,44.9,53.4,24.9,27.9,AK,50 : 50,6%,8.4,2019
+Washington,District of Columbia,38.936981,-77.088785,American University,301–350,39.4,33.5,21.7,43.1,DC,65 : 35,13%,10.8,2019
+Chestnut Hill,Middlesex,42.336203,-71.169242,Boston College,301–350,45.2,57.6,25.3,36.1,MA,55 : 45,14%,15.9,2019
+Storrs,Tolland,41.807658,-72.256961,University of Connecticut,301–350,37.1,46.1,29.8,36.7,CT,53 : 47,8%,14.6,2019
+Denver,Denver,39.681439,-104.961532,University of Denver,301–350,35.3,28.0,21.5,40.2,CO,57 : 43,10%,13.2,2019
+Fairfax,Fairfax,38.83088,-77.30794,George Mason University,301–350,35.3,44.1,25.8,29.0,VA,54 : 46,9%,17.7,2019
+Houston,Harris,29.719988,-95.344851,University of Houston,301–350,38.3,42.1,32.4,38.8,TX,50 : 50,10%,43.6,2019
+Corvallis,Benton,44.563109,-123.278711,Oregon State University,301–350,38.1,51.1,30.4,31.3,OR,46 : 54,11%,16.2,2019
+Pullman,Whitman,46.730448,-117.158168,Washington State University,301–350,51.5,48.3,28.4,31.3,WA,52 : 48,8%,19.3,2019
+Detroit,Wayne,42.35861,-83.072864,Wayne State University,301–350,43.9,38.1,17.7,33.7,MI,55 : 45,9%,11.0,2019
+Philadelphia,Philadelphia,39.954855,-75.188745,Drexel University,351–400,40.6,50.7,19.3,36.2,PA,49 : 51,18%,10.5,2019
+Hempstead,Nassau,40.715959,-73.60078,Hofstra University,351–400,34.0,29.4,12.7,37.9,NY,57 : 43,10%,13.6,2019
+Ames,Story,42.025303,-93.65024,Iowa State University,351–400,49.5,55.5,32.2,28.8,IA,44 : 56,12%,18.3,2019
+Lawrence,Douglas,38.956474,-95.258651,University of Kansas,351–400,41.9,33.6,24.5,37.2,KS,51 : 49,9%,9.9,2019
+Lincoln,Lancaster,40.821787,-96.700663,University of Nebraska-Lincoln,351–400,39.5,54.7,26.2,32.2,NE,48 : 52,12%,16.6,2019
+Troy,Rensselaer,42.728983,-73.678768,Rensselaer Polytechnic Institute,351–400,68.3,49.9,30.1,27.9,NY,32 : 68,19%,15.4,2019
+Chicago,Cook,41.873493,-87.669466,Rush University,351–400,39.5,20.0,10.6,34.6,IL,74 : 26,1%,1.4,2019
+Philadelphia,Philadelphia,39.980712,-75.158452,Temple University,351–400,37.1,37.5,16.3,34.0,PA,52 : 48,9%,9.1,2019
+Burlington,Chittenden,44.479262,-73.198128,University of Vermont,351–400,47.1,28.7,19.9,27.9,VT,56 : 44,5%,8.7,2019
+Tuscaloosa,Tuscaloosa,33.2144,-87.545766,The University of Alabama,401–500,34.8,29.0,21.1,26.1,AL,55 : 45,5%,22.3,2019
+Huntsville,Madison,34.722818,-86.63842,University of Alabama in Huntsville,401–500,68.2,44.8,21.3,20.7,AL,44 : 56,9%,14.1,2019
+Miami,Miami-Dade,25.757111,-80.377591,Florida International University,401–500,37.0,38.3,21.8,28.9,FL,56 : 44,8%,23.9,2019
+Athens,Clarke,33.937727,-83.37143,University of Georgia,401–500,36.6,43.9,32.1,33.6,GA,57 : 43,8%,16.6,2019
+Atlanta,Fulton,33.7527,-84.38667,Georgia State University,401–500,34.4,38.1,25.0,32.0,GA,59 : 41,5%,16.1,2019
+Lexington,Fayette,38.028761,-84.502517,University of Kentucky,401–500,39.1,36.6,28.9,27.4,KY,55 : 45,5%,14.5,2019
+Omaha,Douglas,41.255088,-95.976346,University of Nebraska Medical Center,401–500,37.8,43.8,11.6,37.5,NE,67 : 33,8%,2.3,2019
+Socorro,Socorro,34.06619,-106.907701,New Mexico Institute of Mining and Technology,401–500,57.7,60.6,10.0,23.6,NM,28 : 72,9%,6.3,2019
+Flagstaff,Coconino,35.188875,-111.655559,Northern Arizona University,401–500,34.2,30.0,13.3,18.6,AZ,59 : 41,5%,26.6,2019
+Columbia,Richland,33.996677,-81.026916,University of South Carolina-Columbia,401–500,35.1,42.8,26.5,32.9,SC,55 : 45,6%,16.2,2019
+Milwaukee,Milwaukee,43.076848,-87.880488,University of Wisconsin-Milwaukee,401–500,35.3,31.8,20.9,19.6,WI,53 : 47,6%,19.1,2019
+Omaha,Douglas,41.265354,-95.9478,Creighton University,501–600,36.2,31.7,11.4,40.5,NE,62 : 38,10%,11.5,2019
+Moscow,Latah,46.726894,-117.024296,University of Idaho,501–600,36.0,44.2,20.3,31.8,ID,48 : 52,8%,17.2,2019
+Bethlehem,Northampton,40.606626,-75.377095,Lehigh University,501–600,38.4,42.2,19.9,28.1,PA,44 : 56,17%,11.2,2019
+Rolla,Phelps,37.955853,-91.7759,Missouri University of Science and Technology,501–600,53.8,61.0,23.8,23.7,MO,23 : 77,15%,22.7,2019
+Bozeman,Gallatin,45.666829,-111.049918,Montana State University,501–600,48.5,28.3,18.5,17.7,MT,46 : 54,4%,18.8,2019
+Newark,Essex,40.741997,-74.177113,New Jersey Institute of Technology,501–600,35.9,58.1,15.4,18.0,NJ,24 : 76,19%,19.8,2019
+San Diego,San Diego,32.77525,-117.071228,San Diego State University,501–600,34.8,32.1,23.4,23.4,CA,55 : 45,8%,30.3,2019
+Hoboken,Hudson,40.744776,-74.025334,Stevens Institute of Technology,501–600,36.4,65.9,15.4,20.8,NJ,29 : 71,35%,16.2,2019
+San Antonio,Bexar,29.582418,-98.621386,The University of Texas at San Antonio,501–600,35.6,35.8,19.4,17.2,TX,50 : 50,5%,25.1,2019
+Toledo,Lucas,41.657246,-83.615936,University of Toledo,501–600,43.8,44.7,14.3,36.0,OH,50 : 50,11%,15.2,2019
+Worcester,Worcester,42.274953,-71.807916,Worcester Polytechnic Institute,501–600,35.0,55.1,17.5,20.9,MA,33 : 67,22%,12.6,2019
+Fayetteville,Washington,36.065642,-94.177852,University of Arkansas,601–800,39.1,31.2,20.7,25.2,AR,52 : 48,6%,20.3,2019
+Auburn University,Lee,32.600201,-85.492409,Auburn University,601–800,40.7,36.8,20.8,32.8,AL,50 : 50,6%,18.2,2019
+Waco,McLennan,31.54615,-97.118453,Baylor University,601–800,35.1,28.6,17.8,31.1,TX,57 : 43,5%,16.6,2019
+Orlando,Orange,28.602159,-81.200889,University of Central Florida,601–800,43.3,30.9,26.8,27.8,FL,56 : 44,3%,36.2,2019
+Dayton,Montgomery,39.740464,-84.179789,University of Dayton,601–800,39.6,31.8,23.3,30.5,OH,52 : 48,13%,13.9,2019
+Bronx,Bronx,40.861412,-73.889899,Fordham University,601–800,34.7,36.9,23.2,41.0,NY,59 : 41,15%,12.5,2019
+Manhattan,Riley,39.188616,-96.581077,Kansas State University,601–800,41.3,45.2,19.8,24.0,KS,50 : 50,9%,14.6,2019
+Ruston,Lincoln,32.525518,-92.64964,Louisiana Tech University,601–800,34.5,33.6,10.5,17.7,LA,45 : 55,4%,27.4,2019
+Milwaukee,Milwaukee,43.037183,-87.931088,Marquette University,601–800,36.2,23.7,14.0,36.1,WI,53 : 47,5%,12.3,2019
+Mississippi State,Oktibbeha,33.451697,-88.790826,Mississippi State University,601–800,38.0,24.2,16.1,21.0,MS,51 : 49,3%,18.6,2019
+Greensboro,Guilford,36.067503,-79.809844,University of North Carolina at Greensboro,601–800,34.9,19.5,20.6,21.2,NC,66 : 34,3%,24.9,2019
+Norfolk,Norfolk,36.884919,-76.309653,Old Dominion University,601–800,34.0,29.9,19.2,22.8,VA,54 : 46,3%,19.3,2019
+Portland,Multnomah,45.511698,-122.684197,Portland State University,601–800,34.6,31.8,21.7,19.8,OR,54 : 46,9%,18.4,2019
+Rochester,Monroe,43.084436,-77.673854,Rochester Institute of Technology,601–800,36.1,39.9,17.2,19.6,NY,34 : 66,18%,16.2,2019
+San Diego,San Diego,32.77142,-117.188721,University of San Diego,601–800,39.5,25.0,18.1,37.4,CA,56 : 44,8%,13.0,2019
+Mobile,Mobile,30.695081,-88.18189,University of South Alabama,601–800,35.8,25.1,10.0,31.4,AL,61 : 39,6%,15.0,2019
+Vermillion,Clay,42.784676,-96.926533,University of South Dakota,601–800,38.6,24.4,14.5,30.4,SD,61 : 39,3%,35.3,2019
+Lubbock,Lubbock,33.580451,-101.877129,Texas Tech University,601–800,36.7,44.6,20.7,30.5,TX,46 : 54,9%,22.2,2019
+Bellingham,Whatcom,48.737379,-122.485016,Western Washington University,601–800,34.0,22.2,10.2,14.7,WA,57 : 43,1%,17.7,2019
+Morgantown,Monongalia,39.63468,-79.953926,West Virginia University,601–800,34.0,39.4,10.2,18.9,WV,47 : 53,8%,16.8,2019
+Greenville,Pitt,35.606347,-77.366199,East Carolina University,801–1000,38.9,27.7,11.5,20.9,NC,59 : 41,2%,14.1,2019
+Boca Raton,Palm Beach,26.372421,-80.102978,Florida Atlantic University,801–1000,39.4,43.9,14.6,17.5,FL,60 : 40,11%,18.7,2019
+Melbourne,Brevard,28.064503,-80.624628,Florida Institute of Technology,801–1000,36.8,58.6,13.5,24.6,FL,34 : 66,36%,13.8,2019
+Rochester Hills,Oakland,42.674569,-83.216414,Oakland University,801–1000,34.9,26.8,12.7,21.0,MI,58 : 42,3%,19.3,2019
+Hattiesburg,Forrest,31.327499,-89.33791,University of Southern Mississippi,1001+,38.3,26.4,11.3,19.8,MS,64 : 36,4%,18.5,2019
+Tempe,Maricopa,33.4172,-111.9355,Arizona State University (Tempe),=123,38.6,58.6,47.4,42.7,AZ,43 : 57,20%,20.8,2019
+Fort Collins,Larimer,39.7448,-104.9887,"Colorado State University, Fort Collins",401–500,39.1,38.4,25.7,29.0,CO,53 : 47,6%,16.5,2019
+New York,New York,40.8075,-73.9619,Columbia University,16,44.8,79.0,83.1,85.4,NY,,37%,6.0,2019
+Atlanta,Fulton,33.7756,-84.3963,Georgia Institute of Technology,34,62.2,77.1,76.1,62.5,GA,32 : 68,27%,21.5,2019
+Bloomington,Monroe,39.1678,-86.5235,Indiana University,=146,52.8,52.6,45.6,49.4,IN,52 : 48,16%,13.8,2019
+Kent,Portage,41.1516,-81.337,Kent State University,501–600,34.1,40.8,17.5,21.3,TX,59 : 41,10%,19.3,2019
+Baton Rouge,East Baton Rouge,30.4127,-91.1807,Louisiana State University,501–600,34.0,34.5,22.4,33.0,LA,52 : 48,6%,20.5,2019
+Las Cruces,Doña Ana,32.2829,-106.7478,New Mexico State University (Main campus),601–800,38.6,35.5,14.3,21.8,NY,53 : 47,8%,17.3,2019
+Raleigh,Wake,35.7851,-78.6744,North Carolina State University,251–300,43.4,55.9,34.3,37.3,NC,45 : 55,14%,12.8,2019
+Boston,Suffolk,42.3395,-71.0878,"Northeastern University, US",=184,37.2,74.0,26.5,37.0,MA,49 : 51,33%,13.8,2019
+Columbus,Franklin,39.9995,-83.0082,Ohio State University (Main campus),=71,52.9,58.3,54.9,56.7,OH,49 : 51,12%,12.8,2019
+Stillwater,Payne,36.123,-97.0696,Oklahoma State University,501–600,37.0,42.9,19.6,26.0,OK,49 : 51,7%,15.6,2019
+Portland,Multnomah,45.4988,-122.686,Oregon Health and Science University,251–300,45.0,25.6,16.5,35.1,OR,65 : 35,3%,1.0,2019
+West Lafayette,Tippecanoe,40.4281,-86.9143,Purdue University West Lafayette,64,64.6,71.8,68.6,61.6,IN,42 : 58,23%,17.0,2019
+New Brunswick,Middlesex,40.4995,-74.447,Rutgers University – New Brunswick,=176,39.8,50.4,44.5,45.4,NJ,52 : 48,16%,11.2,2019
+Albany,Albany,42.6869,-73.8249,SUNY University at Albany,401–500,37.5,48.6,35.2,21.7,NY,52 : 48,10%,16.2,2019
+St. Louis,St. Louis City,38.6365,-90.2333,Saint Louis University,501–600,36.3,28.5,14.9,36.6,MO,59 : 41,7%,7.3,2019
+College Station,Brazos,30.6107,-96.3491,Texas A&M University,=171,47.5,53.4,54.6,51.6,TX,48 : 52,9%,25.8,2019
+San Marcos,Hays,29.888,-97.9391,Texas State University,801–1000,34.4,30.5,11.7,17.4,TX,58 : 42,1%,19.7,2019
+Chicago,Cook,41.7901,-87.6009,The University of Chicago,10,41.4,70.9,90.1,90.2,IL,44 : 56,25%,6.1,2019
+Knoxville,Knox,35.9551,-83.92966,The University of Tennessee-Knoxville,301–350,41.3,44.7,23.2,33.7,TN,,5%,16.7,2019
+New Orleans,Orleans,29.9397,-90.1203,Tulane University,301–350,37.0,41.1,23.4,43.2,LA,57 : 43,11%,10.5,2019
+Berkeley,Alameda,37.8757,-122.2484,"University of California, Berkeley",15,49.3,69.8,92.3,78.7,CA,51 : 49,17%,13.2,2019
+Davis,Yolo,38.5381,-121.751,"University of California, Davis",=59,52.7,61.2,63.6,59.3,CA,57 : 43,13%,13.5,2019
+Irvine,Orange,33.6431,-117.8378,"University of California, Irvine",=96,60.8,69.3,47.6,44.5,CA,53 : 47,24%,16.7,2019
+Los Angeles,Los Angeles,34.0688,-118.4439,"University of California, Los Angeles",17,49.4,62.1,87.9,82.6,CA,53 : 47,17%,9.2,2019
+Merced,Merced,37.3662,-120.4249,"University of California, Merced",351–400,37.8,40.1,20.5,16.2,CA,51 : 49,8%,19.3,2019
+Riverside,Riverside,33.9745,-117.3287,"University of California, Riverside",201–250,41.0,65.6,31.6,29.5,CA,52 : 48,14%,19.6,2019
+San Diego,San Diego,32.881,-117.2377,"University of California, San Diego",30,96.0,59.9,79.2,65.4,CA,46 : 54,20%,12.9,2019
+Santa Barbara,Santa Barbara,34.4123,-119.8514,"University of California, Santa Barbara",52,83.4,67.0,65.0,50.9,CA,52 : 48,16%,27.9,2019
+Santa Cruz,Santa Cruz,36.999,-122.0607,"University of California, Santa Cruz",=167,39.5,53.2,36.0,33.5,CA,52 : 48,5%,23.1,2019
+Denver,Denver,39.7452,-104.8393,University of Colorado Denver/Anschutz Medical Campus,301–350,34.0,28.8,13.9,33.6,CO,56 : 44,7%,5.4,2019
+Honolulu,Honolulu,21.2972,-157.8162,University of Hawai’i at Mānoa,201–250,50.6,64.4,37.1,35.5,HI,56 : 44,11%,11.0,2019
+Chicago,Cook,41.8718,-87.6505,University of Illinois Chicago,251–300,42.7,55.3,30.8,44.6,IL,52 : 48,19%,11.2,2019
+Baltimore,Baltimore,39.2567,-76.7115,"University of Maryland, Baltimore County",501–600,35.6,33.8,18.1,23.4,MD,45 : 55,8%,18.6,2019
+College Park,Prince George's,38.9886,-76.9396,"University of Maryland, College Park",=82,38.7,41.2,57.7,47.8,MD,47 : 53,10%,16.2,2019
+Amherst,Hampshire,42.3886,-72.5293,University of Massachusetts,201–250,50.0,58.4,28.7,36.6,MA,48 : 52,14%,12.8,2019
+Minneapolis,Hennepin,44.9778,-93.2353,University of Minnesota,=71,79.4,39.4,58.7,56.8,MN,52 : 48,11%,12.3,2019
+Missoula,Missoula,46.861,-113.9829,University of Montana,401–500,34.6,26.6,20.4,37.9,MT,56 : 44,3%,16.1,2019
+Las Vegas,Clark,36.1069,-115.1411,"University of Nevada, Las Vegas",601–800,34.0,31.5,21.2,29.4,IN,56 : 44,5%,26.1,2019
+Albuquerque,Bernalillo,35.0838,-106.6201,University of New Mexico (Main campus),301–350,37.3,32.0,32.0,27.8,NM,55 : 45,5%,18.8,2019
+Pittsburgh,Allegheny,40.4426,-79.9541,University of Pittsburgh-Pittsburgh campus,=110,40.4,38.2,44.5,47.8,PA,52 : 48,11%,5.9,2019
+Arlington,Tarrant,32.7291,-97.1151,University of Texas at Arlington,601–800,39.3,45.6,17.6,19.3,TX,55 : 45,15%,23.8,2019
+Austin,Travis,30.2838,-97.7364,University of Texas at Austin,39,48.7,38.0,74.2,68.8,TX,51 : 49,10%,17.1,2019
+Richardson,Dallas,32.9894,-96.7487,University of Texas at Dallas,251–300,41.6,59.5,28.6,23.7,TX,43 : 57,25%,21.6,2019
+El Paso,El Paso,31.7717,-106.5035,University of Texas at El Paso,601–800,34.0,37.9,21.4,19.6,TX,53 : 47,8%,23.6,2019
+Charlottesville,Albemarle,38.0339,-78.5118,University of Virginia (Main campus),107,44.1,47.7,41.1,53.8,VA,53 : 47,12%,9.4,2019
+Seattle,King,47.6557,-122.3108,University of Washington,28,47.6,59.3,79.7,70.7,WA,53 : 47,16%,11.3,2019
+Williamsburg,James City,37.2732,-76.7196,William & Mary,201–250,34.6,34.5,19.8,47.8,VA,55 : 45,9%,11.8,2019
+Pasadena,Los Angeles,34.139181,-118.125567,California Institute of Technology,=3,92.6,59.7,97.5,90.3,CA,31 : 69,27%,6.5,2018
+Stanford,Santa Clara,37.432974,-122.175045,Stanford University,=3,60.5,77.6,96.7,89.1,CA,42 : 58,22%,7.5,2018
+Cambridge,Middlesex,42.360095,-71.092115,Massachusetts Institute of Technology,5,88.4,87.6,91.9,87.3,MA,37 : 63,34%,8.7,2018
+Cambridge,Middlesex,42.374172,-71.118234,Harvard University,6,46.4,79.7,98.4,84.2,MA,,26%,8.9,2018
+Princeton,Mercer,40.347141,-74.657698,Princeton University,7,58.0,78.7,93.9,85.7,NJ,45 : 55,24%,8.3,2018
+Philadelphia,Philadelphia,39.951002,-75.193618,University of Pennsylvania,=10,56.9,61.3,90.1,83.7,PA,50 : 50,20%,6.5,2018
+New Haven,New Haven,41.312308,-72.922511,Yale University,12,45.1,64.6,87.0,86.7,CT,49 : 51,21%,4.3,2018
+Baltimore,Baltimore,39.329808,-76.620723,Johns Hopkins University,13,95.8,70.6,88.1,76.1,MD,52 : 48,24%,4.3,2018
+Durham,Durham,36.002344,-78.938597,Duke University,17,100.0,62.5,80.6,80.7,NC,49 : 51,22%,4.5,2018
+Ithaca,Tompkins,42.448713,-76.476535,Cornell University,19,34.6,69.2,86.6,76.2,NY,49 : 51,24%,9.8,2018
+Evanston,Cook,42.058377,-87.673653,Northwestern University,20,78.2,59.2,86.7,72.6,IL,48 : 52,18%,12.8,2018
+Ann Arbor,Washtenaw,42.27803,-83.736564,University of Michigan-Ann Arbor,21,46.2,55.8,86.3,77.2,MI,48 : 52,16%,8.6,2018
+Pittsburgh,Allegheny,40.443598,-79.943485,Carnegie Mellon University,24,50.4,79.1,83.7,65.8,PA,39 : 61,45%,13.5,2018
+New York,New York,40.729452,-73.997264,New York University,=27,37.0,53.4,77.4,73.7,NY,56 : 44,26%,9.6,2018
+Champaign,Champaign,40.108312,-88.228482,University of Illinois at Urbana-Champaign,37,56.0,52.8,78.9,65.8,IL,46 : 54,23%,22.8,2018
+Madison,Dane,43.073858,-89.405356,University of Wisconsin-Madison,43,45.8,43.4,73.9,68.4,WI,51 : 49,12%,10.7,2018
+Providence,Providence,41.826853,-71.402925,Brown University,=50,34.1,59.0,57.9,63.8,RI,,20%,10.7,2018
+Saint Louis,St. Louis,38.648125,-90.311639,Washington University in St Louis,=50,36.9,52.1,59.7,60.8,MO,,17%,7.5,2018
+Chapel Hill,Orange,35.912165,-79.050969,University of North Carolina at Chapel Hill,=56,39.2,41.5,61.8,57.9,NC,56 : 44,8%,9.7,2018
+Los Angeles,Los Angeles,34.021058,-118.283858,University of Southern California,66,37.9,63.0,58.4,49.8,CA,53 : 47,23%,12.8,2018
+Boston,Suffolk,42.349581,-71.09984,Boston University,=70,34.0,60.0,45.9,57.1,MA,60 : 40,25%,8.6,2018
+East Lansing,Ingham,42.72476,-84.473639,Michigan State University,=83,35.7,61.2,53.3,55.1,MI,51 : 49,17%,17.0,2018
+Houston,Harris,29.716218,-95.404977,Rice University,=86,42.4,72.7,41.9,45.1,TX,43 : 57,28%,9.0,2018
+Hanover,Grafton,43.705524,-72.288842,Dartmouth College,89,37.9,39.1,41.9,58.5,NH,47 : 53,15%,6.6,2018
+Atlanta,DeKalb,33.798836,-84.325782,Emory University,98,42.3,53.3,40.4,47.1,GA,57 : 43,19%,4.4,2018
+Boulder,Boulder,40.004415,-105.267061,University of Colorado Boulder,=100,37.5,42.4,45.8,44.8,CO,44 : 56,10%,16.3,2018
+Nashville,Davidson,36.14443,-86.804875,Vanderbilt University,=105,52.8,38.9,41.4,47.7,TN,53 : 47,13%,3.3,2018
+Washington,District of Columbia,38.908809,-77.073463,Georgetown University,=123,66.3,49.6,37.2,51.8,DC,54 : 46,17%,8.6,2018
+Gainesville,Alachua,29.638248,-82.361195,University of Florida,=143,80.7,37.9,51.2,52.8,FL,54 : 46,9%,17.5,2018
+Notre Dame,St. Joseph,41.699587,-86.237075,University of Notre Dame,=150,35.3,50.7,37.9,49.8,IN,45 : 55,11%,13.4,2018
+Rochester,Monroe,43.126397,-77.631202,University of Rochester,=153,39.5,63.7,34.2,41.7,NY,49 : 51,29%,4.3,2018
+Cleveland,Cuyahoga,41.504095,-81.604893,Case Western Reserve University,158,36.7,46.1,34.9,44.4,OH,49 : 51,19%,7.1,2018
+Tucson,Pima,32.232866,-110.950086,University of Arizona,161,46.1,43.3,38.7,44.3,AZ,52 : 48,9%,13.0,2018
+Birmingham,Jefferson,33.50223,-86.80917,University of Alabama at Birmingham,168,67.6,34.6,32.8,39.7,AL,61 : 39,6%,15.2,2018
+Medford,Middlesex,42.406004,-71.120641,Tufts University,=169,36.7,52.7,33.4,44.1,MA,54 : 46,16%,9.3,2018
+Coral Gables,Miami-Dade,25.720406,-80.27645,University of Miami,186,37.2,67.1,24.4,42.5,FL,51 : 49,16%,5.9,2018
+Waltham,Middlesex,42.364947,-71.254716,Brandeis University,201–250,33.7,49.8,24.3,28.9,MA,55 : 45,25%,12.9,2018
+Newark,New Castle,39.678028,-75.752833,University of Delaware,201–250,91.0,45.4,37.5,27.8,DE,57 : 43,10%,16.8,2018
+Tallahassee,Leon,30.443222,-84.301554,Florida State University,201–250,37.2,47.3,42.0,41.3,FL,55 : 45,7%,26.3,2018
+Washington,District of Columbia,38.899096,-77.046277,George Washington University,201–250,32.6,50.3,30.4,44.8,DC,58 : 42,16%,12.9,2018
+Iowa City,Johnson,41.660695,-91.535698,University of Iowa,201–250,60.6,35.4,34.0,42.0,IA,52 : 48,13%,12.4,2018
+Salt Lake City,Salt Lake,40.762484,-111.846044,University of Utah,201–250,46.1,33.0,34.1,37.2,UT,45 : 55,10%,14.5,2018
+Buffalo,Erie,42.955292,-78.819555,University at Buffalo,251–300,44.7,62.5,28.5,38.8,NY,45 : 55,18%,17.7,2018
+Worcester,Worcester,42.250778,-71.823632,Clark University,251–300,32.6,60.0,23.7,23.7,MA,60 : 40,26%,11.7,2018
+Golden,Jefferson,39.749092,-105.222907,Colorado School of Mines,251–300,55.5,41.3,26.8,33.6,CO,28 : 72,11%,17.6,2018
+Eugene,Lane,44.044515,-123.07398,University of Oregon,251–300,32.0,37.0,30.1,31.1,OR,52 : 48,14%,18.6,2018
+Stony Brook,Suffolk,40.91554,-73.12112,Stony Brook University,251–300,33.4,58.7,23.8,33.0,NY,49 : 51,24%,10.4,2018
+Syracuse,Onondaga,43.039891,-76.13267,Syracuse University,251–300,37.0,45.6,28.7,32.8,NY,54 : 46,19%,16.3,2018
+Winston Salem,Forsyth,36.135301,-80.279004,Wake Forest University,251–300,38.4,28.2,18.4,34.8,NC,51 : 49,6%,4.1,2018
+Fairbanks,Fairbanks North Star,64.855573,-147.825921,University of Alaska Fairbanks,301–350,44.9,52.8,23.2,25.3,AK,51 : 49,6%,8.3,2018
+Chestnut Hill,Middlesex,42.336203,-71.169242,Boston College,301–350,43.8,53.8,20.0,37.0,MA,55 : 45,12%,16.1,2018
+Storrs,Tolland,41.807658,-72.256961,University of Connecticut,301–350,34.6,48.5,28.5,35.7,CT,51 : 49,12%,12.7,2018
+Denver,Denver,39.681439,-104.961532,University of Denver,301–350,35.7,28.8,29.8,35.9,CO,56 : 44,11%,13.2,2018
+Fairfax,Fairfax,38.83088,-77.30794,George Mason University,301–350,33.2,40.8,26.4,28.5,VA,54 : 46,8%,17.5,2018
+Houston,Harris,29.719988,-95.344851,University of Houston,301–350,37.8,39.8,34.1,36.8,TX,50 : 50,10%,42.9,2018
+Ames,Story,42.025303,-93.65024,Iowa State University,301–350,48.6,53.8,31.4,29.1,IA,45 : 55,12%,18.8,2018
+Lincoln,Lancaster,40.821787,-96.700663,University of Nebraska-Lincoln,301–350,37.9,50.4,29.6,32.4,NE,47 : 53,12%,16.3,2018
+Corvallis,Benton,44.563109,-123.278711,Oregon State University,301–350,36.5,48.5,29.3,30.1,OR,47 : 53,10%,16.2,2018
+Troy,Rensselaer,42.728983,-73.678768,Rensselaer Polytechnic Institute,301–350,67.3,46.2,31.8,28.9,NY,32 : 68,17%,15.7,2018
+Chicago,Cook,41.873493,-87.669466,Rush University,301–350,41.3,14.8,12.4,35.3,IL,73 : 27,3%,2.1,2018
+Blacksburg,Montgomery,37.229906,-80.419988,Virginia Polytechnic Institute and State University,301–350,43.8,33.5,39.6,33.5,VA,43 : 57,11%,18.2,2018
+Pullman,Whitman,46.730448,-117.158168,Washington State University,301–350,50.9,45.6,27.7,29.3,WA,52 : 48,7%,19.7,2018
+Tuscaloosa,Tuscaloosa,33.2144,-87.545766,The University of Alabama,351–400,33.3,27.7,20.6,30.0,AL,54 : 46,5%,22.2,2018
+Washington,District of Columbia,38.936981,-77.088785,American University,351–400,38.2,32.2,23.6,39.4,DC,64 : 36,13%,11.7,2018
+Philadelphia,Philadelphia,39.954855,-75.188745,Drexel University,351–400,37.4,49.4,16.9,33.6,PA,49 : 51,18%,10.9,2018
+Athens,Clarke,33.937727,-83.37143,University of Georgia,351–400,34.3,42.6,32.3,30.1,GA,58 : 42,7%,16.3,2018
+Atlanta,Fulton,33.7527,-84.38667,Georgia State University,351–400,32.1,39.7,24.7,30.9,GA,69 : 31,6%,18.9,2018
+Lawrence,Douglas,38.956474,-95.258651,University of Kansas,351–400,39.1,36.7,22.7,36.2,KS,51 : 49,9%,7.2,2018
+Columbia,Richland,33.996677,-81.026916,University of South Carolina-Columbia,351–400,33.2,39.8,27.8,33.6,SC,55 : 45,5%,18.2,2018
+Philadelphia,Philadelphia,39.980712,-75.158452,Temple University,351–400,36.1,34.3,19.1,34.2,PA,52 : 48,8%,11.5,2018
+Burlington,Chittenden,44.479262,-73.198128,University of Vermont,351–400,45.2,26.5,20.0,27.4,VT,56 : 44,3%,8.9,2018
+Detroit,Wayne,42.35861,-83.072864,Wayne State University,351–400,42.5,36.7,16.6,32.5,MI,56 : 44,9%,10.8,2018
+Miami,Miami-Dade,25.757111,-80.377591,Florida International University,401–500,35.6,37.4,19.5,28.2,FL,56 : 44,8%,24.4,2018
+Hempstead,Nassau,40.715959,-73.60078,Hofstra University,401–500,31.7,28.5,4.8,32.9,NY,56 : 44,10%,13.9,2018
+Omaha,Douglas,41.255088,-95.976346,University of Nebraska Medical Center,401–500,36.2,41.2,10.6,34.7,NE,67 : 33,9%,2.4,2018
+Flagstaff,Coconino,35.188875,-111.655559,Northern Arizona University,401–500,32.1,29.8,11.3,19.7,AZ,58 : 42,5%,26.8,2018
+San Diego,San Diego,32.77525,-117.071228,San Diego State University,401–500,32.8,30.2,23.4,23.6,CA,56 : 44,7%,30.7,2018
+San Antonio,Bexar,29.582418,-98.621386,The University of Texas at San Antonio,401–500,32.4,34.2,18.4,18.8,TX,49 : 51,6%,25.8,2018
+Milwaukee,Milwaukee,43.076848,-87.880488,University of Wisconsin-Milwaukee,401–500,33.4,30.7,20.4,23.2,WI,52 : 48,6%,18.7,2018
+Fayetteville,Washington,36.065642,-94.177852,University of Arkansas,501–600,44.5,30.0,19.5,26.4,AR,52 : 48,6%,20.4,2018
+Omaha,Douglas,41.265354,-95.9478,Creighton University,501–600,35.0,31.1,10.3,37.1,NE,58 : 42,9%,11.3,2018
+Bethlehem,Northampton,40.606626,-75.377095,Lehigh University,501–600,36.6,40.5,19.9,24.7,PA,45 : 55,16%,11.4,2018
+Rolla,Phelps,37.955853,-91.7759,Missouri University of Science and Technology,501–600,47.5,65.9,23.9,26.2,MO,23 : 77,17%,23.7,2018
+Bozeman,Gallatin,45.666829,-111.049918,Montana State University,501–600,48.2,27.2,18.2,18.1,MT,46 : 54,4%,18.8,2018
+Newark,Essex,40.741997,-74.177113,New Jersey Institute of Technology,501–600,34.2,55.4,14.7,19.7,NJ,24 : 76,18%,21.1,2018
+Vermillion,Clay,42.784676,-96.926533,University of South Dakota,501–600,33.6,24.1,14.0,30.9,SD,61 : 39,3%,31.8,2018
+Hoboken,Hudson,40.744776,-74.025334,Stevens Institute of Technology,501–600,33.2,64.2,16.2,20.6,NJ,29 : 71,35%,16.2,2018
+Lubbock,Lubbock,33.580451,-101.877129,Texas Tech University,501–600,33.1,42.5,18.4,31.0,TX,46 : 54,9%,22.2,2018
+Toledo,Lucas,41.657246,-83.615936,University of Toledo,501–600,42.9,41.9,13.9,32.7,OH,50 : 50,10%,15.9,2018
+Auburn University,Lee,32.600201,-85.492409,Auburn University,601–800,38.9,33.2,20.2,31.8,AL,50 : 50,5%,18.2,2018
+Waco,McLennan,31.54615,-97.118453,Baylor University,601–800,33.1,27.1,16.7,30.7,TX,57 : 43,5%,17.0,2018
+Dayton,Montgomery,39.740464,-84.179789,University of Dayton,601–800,37.8,33.0,15.1,30.2,OH,48 : 52,15%,15.2,2018
+Boca Raton,Palm Beach,26.372421,-80.102978,Florida Atlantic University,601–800,1.7,45.5,12.9,19.0,FL,59 : 41,10%,15.8,2018
+Melbourne,Brevard,28.064503,-80.624628,Florida Institute of Technology,601–800,34.7,59.7,12.7,22.4,FL,33 : 67,35%,14.6,2018
+Manhattan,Riley,39.188616,-96.581077,Kansas State University,601–800,41.5,45.1,17.8,24.3,KS,50 : 50,11%,14.7,2018
+Milwaukee,Milwaukee,43.037183,-87.931088,Marquette University,601–800,34.6,22.0,12.7,35.1,WI,52 : 48,5%,12.4,2018
+Mississippi State,Oktibbeha,33.451697,-88.790826,Mississippi State University,601–800,34.9,23.1,15.8,19.0,MS,50 : 50,4%,28.6,2018
+Greensboro,Guilford,36.067503,-79.809844,University of North Carolina at Greensboro,601–800,33.0,19.1,20.2,22.9,NC,66 : 34,3%,23.9,2018
+Norfolk,Norfolk,36.884919,-76.309653,Old Dominion University,601–800,1.7,28.8,18.2,24.2,VA,54 : 46,3%,19.7,2018
+Portland,Multnomah,45.511698,-122.684197,Portland State University,601–800,39.6,32.0,15.4,20.4,OR,54 : 46,9%,15.9,2018
+Rochester,Monroe,43.084436,-77.673854,Rochester Institute of Technology,601–800,33.6,37.9,17.7,20.1,NY,35 : 65,17%,16.2,2018
+Rochester Hills,Oakland,42.674569,-83.216414,Oakland University,801–1000,32.8,25.2,12.3,19.6,MI,59 : 41,3%,19.0,2018
+Hattiesburg,Forrest,31.327499,-89.33791,University of Southern Mississippi,801–1000,48.8,22.4,9.2,20.4,MS,64 : 36,3%,18.2,2018
+Tempe,Maricopa,33.4172,-111.9355,Arizona State University (Tempe),=126,35.7,55.2,48.3,41.5,AZ,43 : 57,19%,20.1,2018
+Fort Collins,Larimer,39.7448,-104.9887,"Colorado State University, Fort Collins",351–400,36.7,37.7,30.9,28.7,CO,53 : 47,6%,15.9,2018
+New York,New York,40.8075,-73.9619,Columbia University,14,41.3,76.6,83.3,82.2,NY,,32%,6.1,2018
+Atlanta,Fulton,33.7756,-84.3963,Georgia Institute of Technology,33,60.2,75.0,78.9,59.7,GA,31 : 69,27%,20.7,2018
+Bloomington,Monroe,39.1678,-86.5235,Indiana University,=117,51.5,50.5,46.5,50.5,IN,52 : 48,15%,14.1,2018
+Kent,Portage,41.1516,-81.337,Kent State University,501–600,32.1,37.3,16.9,23.8,TX,59 : 41,9%,18.6,2018
+Baton Rouge,East Baton Rouge,30.4127,-91.1807,Louisiana State University,401–500,7.7,33.0,35.4,35.1,LA,52 : 48,6%,20.5,2018
+Columbia,Boone,38.941,-92.3264,Mizzou - University of Missouri,401–500,33.1,36.0,19.5,32.0,MO,53 : 47,6%,11.5,2018
+Las Cruces,Doña Ana,32.2829,-106.7478,New Mexico State University (Main campus),601–800,36.4,35.2,9.0,22.8,NY,53 : 47,8%,16.7,2018
+Raleigh,Wake,35.7851,-78.6744,North Carolina State University,251–300,42.5,52.8,34.5,35.6,NC,45 : 55,13%,13.1,2018
+Boston,Suffolk,42.3395,-71.0878,"Northeastern University, US",193,35.4,70.1,26.8,35.6,MA,49 : 51,32%,14.0,2018
+Columbus,Franklin,39.9995,-83.0082,Ohio State University (Main campus),=70,52.0,56.4,56.2,55.5,OH,49 : 51,13%,12.7,2018
+Stillwater,Payne,36.123,-97.0696,Oklahoma State University,501–600,36.1,29.8,22.4,27.5,OK,49 : 51,6%,22.1,2018
+Portland,Multnomah,45.4988,-122.686,Oregon Health and Science University,251–300,44.5,24.4,15.1,32.2,OR,64 : 36,2%,1.0,2018
+West Lafayette,Tippecanoe,40.4281,-86.9143,Purdue University West Lafayette,60,63.5,69.9,68.9,62.3,IN,42 : 58,23%,17.4,2018
+New Brunswick,Middlesex,40.4995,-74.447,Rutgers University – New Brunswick,172,36.9,39.2,45.3,43.0,NJ,52 : 48,10%,11.1,2018
+St. Louis,St. Louis City,38.6365,-90.2333,Saint Louis University,401–500,34.7,28.0,14.7,35.7,MO,59 : 41,7%,6.8,2018
+College Station,Brazos,30.6107,-96.3491,Texas A&M University,=159,41.2,52.0,56.3,50.4,TX,48 : 52,9%,23.6,2018
+San Marcos,Hays,29.888,-97.9391,Texas State University,801–1000,32.6,17.5,12.0,21.2,TX,57 : 43,1%,20.4,2018
+Chicago,Cook,41.7901,-87.6009,The University of Chicago,9,39.8,69.6,90.1,85.3,IL,44 : 56,25%,6.2,2018
+Knoxville,Knox,35.9551,-83.92966,The University of Tennessee-Knoxville,301–350,41.3,42.7,21.7,32.4,TN,,5%,16.4,2018
+New Orleans,Orleans,29.9397,-90.1203,Tulane University,351–400,35.1,39.5,14.7,39.7,LA,56 : 44,11%,11.0,2018
+Berkeley,Alameda,37.8757,-122.2484,"University of California, Berkeley",18,37.5,64.5,84.5,77.4,CA,52 : 48,17%,13.1,2018
+Davis,Yolo,38.5381,-121.751,"University of California, Davis",=54,53.4,63.7,64.5,60.9,CA,56 : 44,10%,13.8,2018
+Irvine,Orange,33.6431,-117.8378,"University of California, Irvine",99,43.9,65.2,44.9,43.4,CA,52 : 48,21%,17.0,2018
+Los Angeles,Los Angeles,34.0688,-118.4439,"University of California, Los Angeles",15,48.6,59.5,88.1,80.7,CA,53 : 47,17%,9.6,2018
+Riverside,Riverside,33.9745,-117.3287,"University of California, Riverside",=198,37.4,63.9,30.9,30.0,CA,51 : 49,14%,20.7,2018
+San Diego,San Diego,32.881,-117.2377,"University of California, San Diego",31,96.5,51.9,79.8,62.9,CA,46 : 54,17%,12.8,2018
+Santa Barbara,Santa Barbara,34.4123,-119.8514,"University of California, Santa Barbara",53,82.0,65.4,61.5,50.0,CA,52 : 48,14%,28.1,2018
+Santa Cruz,Santa Cruz,36.999,-122.0607,"University of California, Santa Cruz",=162,38.2,51.6,35.0,31.5,CA,52 : 48,4%,23.0,2018
+Denver,Denver,39.7452,-104.8393,University of Colorado Denver/Anschutz Medical Campus,251–300,42.0,29.0,18.0,30.2,CO,55 : 45,8%,5.0,2018
+Honolulu,Honolulu,21.2972,-157.8162,University of Hawai’i at Mānoa,201–250,49.9,65.9,37.1,37.3,HI,56 : 44,13%,11.0,2018
+Chicago,Cook,41.8718,-87.6505,University of Illinois Chicago,251–300,42.1,56.2,31.6,42.1,IL,52 : 48,19%,11.4,2018
+Baltimore,Baltimore,39.2567,-76.7115,"University of Maryland, Baltimore County",401–500,33.4,32.8,17.0,23.6,MD,46 : 54,8%,18.8,2018
+College Park,Prince George's,38.9886,-76.9396,"University of Maryland, College Park",69,38.4,39.0,63.0,49.6,MD,48 : 52,10%,16.5,2018
+Amherst,Hampshire,42.3886,-72.5293,University of Massachusetts,191,51.0,54.8,32.2,36.3,MA,49 : 51,14%,13.3,2018
+Minneapolis,Hennepin,44.9778,-93.2353,University of Minnesota,=56,90.4,37.7,67.9,57.6,MN,51 : 49,11%,17.4,2018
+Missoula,Missoula,46.861,-113.9829,University of Montana,401–500,33.6,25.6,17.7,34.6,MT,56 : 44,3%,16.6,2018
+Pittsburgh,Allegheny,40.4426,-79.9541,University of Pittsburgh-Pittsburgh campus,=100,39.9,36.8,48.7,45.7,PA,52 : 48,10%,5.9,2018
+Arlington,Tarrant,32.7291,-97.1151,University of Texas at Arlington,501–600,37.7,41.3,16.4,20.8,TX,56 : 44,14%,25.3,2018
+Austin,Travis,30.2838,-97.7364,University of Texas at Austin,49,48.2,36.7,68.3,60.9,TX,51 : 49,10%,17.1,2018
+Richardson,Dallas,32.9894,-96.7487,University of Texas at Dallas,201–250,41.5,57.7,29.4,25.7,TX,43 : 57,25%,25.4,2018
+El Paso,El Paso,31.7717,-106.5035,University of Texas at El Paso,601–800,31.7,35.7,20.6,20.9,TX,53 : 47,7%,23.8,2018
+Charlottesville,Albemarle,38.0339,-78.5118,University of Virginia (Main campus),=113,40.6,46.5,40.7,52.4,VA,52 : 48,12%,9.7,2018
+Seattle,King,47.6557,-122.3108,University of Washington,=25,47.3,56.5,79.9,67.9,WA,52 : 48,16%,11.4,2018
+Williamsburg,James City,37.2732,-76.7196,William & Mary,251–300,32.6,32.2,18.2,44.9,VA,55 : 45,9%,11.8,2018
+Pasadena,Los Angeles,34.139181,-118.125567,California Institute of Technology,2,90.8,63.4,95.7,95.5,CA,31 : 69,27%,6.7,2017
+Stanford,Santa Clara,37.432974,-122.175045,Stanford University,3,60.9,76.5,95.9,92.6,CA,42 : 58,22%,7.7,2017
+Cambridge,Middlesex,42.360095,-71.092115,Massachusetts Institute of Technology,5,88.4,85.6,92.3,90.3,MA,37 : 63,33%,8.8,2017
+Cambridge,Middlesex,42.374172,-71.118234,Harvard University,6,47.3,77.9,98.3,87.5,MA,,25%,8.8,2017
+Princeton,Mercer,40.347141,-74.657698,Princeton University,7,49.9,77.2,88.4,89.5,NJ,45 : 55,23%,8.4,2017
+New Haven,New Haven,41.312308,-72.922511,Yale University,12,44.5,64.3,87.8,88.5,CT,49 : 51,21%,4.4,2017
+Philadelphia,Philadelphia,39.951002,-75.193618,University of Pennsylvania,13,49.9,50.1,88.9,85.9,PA,51 : 49,20%,6.5,2017
+Baltimore,Baltimore,39.329808,-76.620723,Johns Hopkins University,17,100.0,71.1,84.3,77.4,MD,51 : 49,24%,3.5,2017
+Durham,Durham,36.002344,-78.938597,Duke University,18,100.0,58.2,80.0,80.7,NC,49 : 51,17%,4.8,2017
+Ithaca,Tompkins,42.448713,-76.476535,Cornell University,19,36.0,62.2,86.5,79.7,NY,49 : 51,19%,9.9,2017
+Evanston,Cook,42.058377,-87.673653,Northwestern University,20,85.8,56.1,85.0,75.8,IL,48 : 52,16%,14.0,2017
+Ann Arbor,Washtenaw,42.27803,-83.736564,University of Michigan-Ann Arbor,21,43.9,54.6,86.1,79.4,MI,48 : 52,16%,8.8,2017
+Pittsburgh,Allegheny,40.443598,-79.943485,Carnegie Mellon University,23,51.8,59.6,84.0,70.2,PA,38 : 62,38%,13.2,2017
+New York,New York,40.729452,-73.997264,New York University,32,33.6,54.3,68.8,75.1,NY,55 : 45,25%,6.6,2017
+Champaign,Champaign,40.108312,-88.228482,University of Illinois at Urbana-Champaign,=36,50.3,49.7,81.4,65.6,IL,46 : 54,22%,18.3,2017
+Madison,Dane,43.073858,-89.405356,University of Wisconsin-Madison,45,47.4,42.0,71.4,68.2,WI,51 : 49,12%,11.0,2017
+Providence,Providence,41.826853,-71.402925,Brown University,=51,33.9,58.0,54.4,66.3,RI,,20%,10.2,2017
+Chapel Hill,Orange,35.912165,-79.050969,University of North Carolina at Chapel Hill,56,41.0,40.0,59.6,61.9,NC,57 : 43,8%,7.5,2017
+Saint Louis,St. Louis,38.648125,-90.311639,Washington University in St Louis,=57,36.9,45.5,56.2,60.7,MO,,17%,5.7,2017
+Los Angeles,Los Angeles,34.021058,-118.283858,University of Southern California,=60,39.4,62.7,60.0,50.5,CA,52 : 48,23%,13.6,2017
+Boston,Suffolk,42.349581,-71.09984,Boston University,64,34.4,54.6,48.5,60.2,MA,59 : 41,19%,8.4,2017
+Hanover,Grafton,43.705524,-72.288842,Dartmouth College,=82,39.9,37.9,41.1,58.6,NH,47 : 53,15%,6.7,2017
+Atlanta,DeKalb,33.798836,-84.325782,Emory University,=82,43.2,52.7,39.7,52.9,GA,57 : 43,19%,4.4,2017
+Houston,Harris,29.716218,-95.404977,Rice University,87,43.4,69.5,38.7,46.9,TX,43 : 57,27%,9.0,2017
+East Lansing,Ingham,42.72476,-84.473639,Michigan State University,101,38.5,58.8,48.9,51.6,MI,51 : 49,16%,15.8,2017
+Washington,District of Columbia,38.908809,-77.073463,Georgetown University,=104,74.4,47.3,39.3,56.7,DC,54 : 46,15%,8.6,2017
+Nashville,Davidson,36.14443,-86.804875,Vanderbilt University,108,73.5,29.8,37.3,50.1,TN,52 : 48,9%,3.1,2017
+Boulder,Boulder,40.004415,-105.267061,University of Colorado Boulder,=116,38.0,39.4,43.7,42.5,CO,44 : 56,9%,16.3,2017
+Cleveland,Cuyahoga,41.504095,-81.604893,Case Western Reserve University,=126,36.8,42.0,38.9,50.2,OH,48 : 52,18%,6.6,2017
+Gainesville,Alachua,29.638248,-82.361195,University of Florida,134,65.7,35.2,48.1,53.6,FL,54 : 46,9%,17.0,2017
+Medford,Middlesex,42.406004,-71.120641,Tufts University,=135,58.5,50.5,34.3,48.1,MA,54 : 46,15%,10.1,2017
+Notre Dame,St. Joseph,41.699587,-86.237075,University of Notre Dame,143,37.4,48.2,40.7,50.2,IN,45 : 55,10%,13.5,2017
+Rochester,Monroe,43.126397,-77.631202,University of Rochester,=151,38.9,58.9,32.4,43.4,NY,51 : 49,28%,4.5,2017
+Tucson,Pima,32.232866,-110.950086,University of Arizona,=156,35.6,41.7,42.2,42.9,AZ,52 : 48,9%,12.8,2017
+Coral Gables,Miami-Dade,25.720406,-80.27645,University of Miami,=182,38.1,65.8,17.1,43.1,FL,51 : 49,15%,6.0,2017
+Waltham,Middlesex,42.364947,-71.254716,Brandeis University,=198,33.8,49.2,24.6,29.8,MA,55 : 45,23%,13.1,2017
+Chestnut Hill,Middlesex,42.336203,-71.169242,Boston College,201-250,43.8,60.2,19.3,47.3,MA,55 : 45,19%,16.5,2017
+Newark,New Castle,39.678028,-75.752833,University of Delaware,201-250,92.5,44.0,36.8,26.9,DE,56 : 44,10%,16.2,2017
+Tallahassee,Leon,30.443222,-84.301554,Florida State University,201-250,34.2,45.7,39.5,40.8,FL,55 : 45,7%,30.2,2017
+Washington,District of Columbia,38.899096,-77.046277,George Washington University,201-250,32.9,48.0,27.7,47.1,DC,57 : 43,15%,12.4,2017
+Iowa City,Johnson,41.660695,-91.535698,University of Iowa,201-250,53.8,34.6,27.1,40.9,IA,52 : 48,12%,11.6,2017
+Stony Brook,Suffolk,40.91554,-73.12112,Stony Brook University,201-250,35.6,55.6,24.5,34.7,NY,49 : 51,24%,10.9,2017
+Salt Lake City,Salt Lake,40.762484,-111.846044,University of Utah,201-250,47.8,32.5,30.5,37.9,UT,45 : 55,10%,14.8,2017
+Winston Salem,Forsyth,36.135301,-80.279004,Wake Forest University,201-250,41.3,26.1,20.3,37.8,NC,50 : 50,5%,4.5,2017
+Buffalo,Erie,42.955292,-78.819555,University at Buffalo,251-300,42.8,64.6,29.0,38.0,NY,46 : 54,21%,18.8,2017
+Golden,Jefferson,39.749092,-105.222907,Colorado School of Mines,251-300,74.9,39.9,27.8,32.6,CO,27 : 73,11%,17.7,2017
+Troy,Rensselaer,42.728983,-73.678768,Rensselaer Polytechnic Institute,251-300,79.1,43.1,33.5,33.6,NY,31 : 69,17%,15.5,2017
+Chicago,Cook,41.873493,-87.669466,Rush University,251-300,44.0,22.3,13.6,38.4,IL,71 : 29,3%,2.2,2017
+Syracuse,Onondaga,43.039891,-76.13267,Syracuse University,251-300,36.4,41.4,25.9,32.9,NY,54 : 46,17%,16.1,2017
+Blacksburg,Montgomery,37.229906,-80.419988,Virginia Polytechnic Institute and State University,251-300,44.1,31.4,39.9,34.9,VA,42 : 58,10%,18.1,2017
+Fairbanks,Fairbanks North Star,64.855573,-147.825921,University of Alaska Fairbanks,301-350,50.5,55.0,24.0,28.3,AK,52 : 48,7%,8.4,2017
+Worcester,Worcester,42.250778,-71.823632,Clark University,301-350,32.8,59.0,8.0,24.4,MA,57 : 43,25%,11.7,2017
+Storrs,Tolland,41.807658,-72.256961,University of Connecticut,301-350,35.1,40.6,28.2,37.0,CT,51 : 49,7%,12.6,2017
+Denver,Denver,39.681439,-104.961532,University of Denver,301-350,34.9,28.7,23.6,37.7,CO,57 : 43,10%,13.3,2017
+Fairfax,Fairfax,38.83088,-77.30794,George Mason University,301-350,33.4,38.7,24.6,28.1,VA,54 : 46,8%,17.4,2017
+Athens,Clarke,33.937727,-83.37143,University of Georgia,301-350,34.9,41.7,35.0,33.0,GA,57 : 43,7%,19.5,2017
+Lincoln,Lancaster,40.821787,-96.700663,University of Nebraska-Lincoln,301-350,38.5,48.0,29.1,31.2,NE,47 : 53,10%,16.2,2017
+Eugene,Lane,44.044515,-123.07398,University of Oregon,301-350,33.3,35.5,24.5,24.8,OR,52 : 48,13%,19.8,2017
+Corvallis,Benton,44.563109,-123.278711,Oregon State University,301-350,36.0,46.0,28.2,29.3,OR,46 : 54,10%,16.3,2017
+Philadelphia,Philadelphia,39.980712,-75.158452,Temple University,301-350,37.4,31.1,21.6,37.2,PA,52 : 48,6%,13.3,2017
+Philadelphia,Philadelphia,39.954855,-75.188745,Drexel University,351-400,37.9,47.8,16.0,32.6,PA,49 : 51,18%,11.0,2017
+Houston,Harris,29.719988,-95.344851,University of Houston,351-400,40.6,36.8,29.4,35.4,TX,50 : 50,9%,42.5,2017
+Ames,Story,42.025303,-93.65024,Iowa State University,351-400,47.5,37.9,25.3,31.2,IA,46 : 54,12%,18.7,2017
+Lawrence,Douglas,38.956474,-95.258651,University of Kansas,351-400,38.3,33.7,24.5,36.7,KS,51 : 49,9%,7.6,2017
+Lexington,Fayette,38.028761,-84.502517,University of Kentucky,351-400,39.0,38.2,29.3,36.6,KY,53 : 47,6%,19.0,2017
+San Antonio,Bexar,29.582418,-98.621386,The University of Texas at San Antonio,351-400,32.4,32.6,16.2,17.3,TX,48 : 52,7%,21.4,2017
+Pullman,Whitman,46.730448,-117.158168,Washington State University,351-400,56.9,43.3,29.6,29.6,WA,51 : 49,8%,20.1,2017
+Detroit,Wayne,42.35861,-83.072864,Wayne State University,351-400,42.2,33.3,15.7,33.0,MI,57 : 43,8%,10.7,2017
+Washington,District of Columbia,38.936981,-77.088785,American University,401-500,37.8,30.1,21.3,40.5,DC,61 : 39,12%,12.0,2017
+Miami,Miami-Dade,25.757111,-80.377591,Florida International University,401-500,35.2,35.3,20.1,25.4,FL,56 : 44,7%,25.8,2017
+Atlanta,Fulton,33.7527,-84.38667,Georgia State University,401-500,32.3,30.5,23.7,28.1,GA,58 : 42,5%,19.2,2017
+Bethlehem,Northampton,40.606626,-75.377095,Lehigh University,401-500,38.0,39.1,18.5,24.9,PA,44 : 56,16%,11.3,2017
+Flagstaff,Coconino,35.188875,-111.655559,Northern Arizona University,401-500,32.6,26.9,11.2,18.8,AZ,66 : 34,5%,24.8,2017
+San Diego,San Diego,32.77525,-117.071228,San Diego State University,401-500,33.2,27.3,28.8,20.9,CA,56 : 44,6%,31.8,2017
+Hoboken,Hudson,40.744776,-74.025334,Stevens Institute of Technology,401-500,33.7,77.3,18.3,21.8,NJ,29 : 71,34%,18.3,2017
+Fayetteville,Washington,36.065642,-94.177852,University of Arkansas,501-600,39.1,27.9,19.2,24.4,AR,51 : 49,5%,20.3,2017
+Omaha,Douglas,41.265354,-95.9478,Creighton University,501-600,35.7,27.8,9.7,42.3,NE,57 : 43,9%,9.8,2017
+Manhattan,Riley,39.188616,-96.581077,Kansas State University,501-600,44.4,43.9,17.9,25.0,KS,49 : 51,10%,14.3,2017
+Rolla,Phelps,37.955853,-91.7759,Missouri University of Science and Technology,501-600,45.4,65.3,24.7,20.0,MO,23 : 77,17%,23.0,2017
+Bozeman,Gallatin,45.666829,-111.049918,Montana State University,501-600,43.3,26.2,20.7,18.7,MT,45 : 55,5%,18.6,2017
+Omaha,Douglas,41.255088,-95.976346,University of Nebraska Medical Center,501-600,37.1,36.8,12.9,36.4,NE,66 : 34,8%,2.5,2017
+Newark,Essex,40.741997,-74.177113,New Jersey Institute of Technology,501-600,47.6,55.1,17.8,21.3,NJ,24 : 76,21%,18.0,2017
+Norfolk,Norfolk,36.884919,-76.309653,Old Dominion University,501-600,1.7,27.5,17.7,23.1,VA,54 : 46,3%,20.2,2017
+Toledo,Lucas,41.657246,-83.615936,University of Toledo,501-600,44.3,38.8,14.1,32.8,OH,50 : 50,10%,16.5,2017
+Milwaukee,Milwaukee,43.076848,-87.880488,University of Wisconsin-Milwaukee,501-600,34.0,28.2,17.8,21.1,WI,52 : 48,6%,18.2,2017
+Auburn University,Lee,32.600201,-85.492409,Auburn University,601-800,40.0,30.9,18.3,31.7,AL,50 : 50,5%,17.6,2017
+Clemson,Pickens,34.677329,-82.834463,Clemson University,601-800,38.8,35.6,22.0,23.5,SC,46 : 54,7%,17.0,2017
+Melbourne,Brevard,28.064503,-80.624628,Florida Institute of Technology,601-800,36.6,60.6,13.4,25.5,FL,33 : 67,30%,14.0,2017
+Hempstead,Nassau,40.715959,-73.60078,Hofstra University,601-800,32.1,26.6,4.8,35.8,NY,55 : 45,10%,14.2,2017
+Greensboro,Guilford,36.067503,-79.809844,University of North Carolina at Greensboro,601-800,33.2,19.4,15.5,19.3,NC,66 : 34,3%,22.1,2017
+Rochester Hills,Oakland,42.674569,-83.216414,Oakland University,601-800,33.5,24.5,11.8,17.4,MI,59 : 41,2%,20.4,2017
+Rochester,Monroe,43.084436,-77.673854,Rochester Institute of Technology,601-800,33.7,33.8,16.2,19.8,NY,34 : 66,16%,14.1,2017
+Lubbock,Lubbock,33.580451,-101.877129,Texas Tech University,601-800,33.6,41.1,16.6,27.7,TX,45 : 55,7%,20.2,2017
+Hattiesburg,Forrest,31.327499,-89.33791,University of Southern Mississippi,801+,38.3,22.6,8.5,20.1,MS,63 : 37,3%,17.8,2017
+Tempe,Maricopa,33.4172,-111.9355,Arizona State University (Tempe),131,36.6,49.7,48.9,38.5,AZ,44 : 56,16%,20.1,2017
+Fort Collins,Larimer,39.7448,-104.9887,"Colorado State University, Fort Collins",301-350,43.6,35.1,32.6,29.6,CO,53 : 47,5%,16.4,2017
+New York,New York,40.8075,-73.9619,Columbia University,16,44.9,75.3,78.9,86.9,NY,,30%,6.0,2017
+Atlanta,Fulton,33.7756,-84.3963,Georgia Institute of Technology,=33,62.3,72.8,79.2,60.8,GA,31 : 69,26%,19.8,2017
+Bloomington,Monroe,39.1678,-86.5235,Indiana University,150,35.2,47.0,40.2,46.4,IN,52 : 48,14%,14.2,2017
+Kent,Portage,41.1516,-81.337,Kent State University,401-500,32.4,34.3,17.1,22.3,TX,59 : 41,8%,18.6,2017
+Baton Rouge,East Baton Rouge,30.4127,-91.1807,Louisiana State University,501-600,32.1,29.7,20.2,31.1,LA,52 : 48,5%,19.9,2017
+Columbia,Boone,38.941,-92.3264,Mizzou - University of Missouri,351-400,33.8,34.0,19.3,30.9,MO,53 : 47,6%,11.3,2017
+Las Cruces,Doña Ana,32.2829,-106.7478,New Mexico State University (Main campus),401-500,36.9,33.0,21.0,19.8,NY,53 : 47,7%,17.8,2017
+Raleigh,Wake,35.7851,-78.6744,North Carolina State University,201-250,42.0,50.2,32.7,37.5,NC,45 : 55,12%,13.1,2017
+Boston,Suffolk,42.3395,-71.0878,"Northeastern University, US",=182,35.5,63.0,25.7,38.2,MA,50 : 50,28%,14.5,2017
+Columbus,Franklin,39.9995,-83.0082,Ohio State University (Main campus),=72,50.6,54.6,53.1,57.0,OH,49 : 51,12%,12.8,2017
+Athens,Athens,39.3237,-82.1035,Ohio University (Main campus),601-800,34.2,29.5,14.2,24.9,OH,57 : 43,6%,20.9,2017
+Stillwater,Payne,36.123,-97.0696,Oklahoma State University,501-600,36.3,27.2,24.7,26.4,OK,49 : 51,7%,21.4,2017
+Portland,Multnomah,45.4988,-122.686,Oregon Health and Science University,251-300,44.9,23.2,15.3,29.7,OR,65 : 35,2%,1.1,2017
+West Lafayette,Tippecanoe,40.4281,-86.9143,Purdue University West Lafayette,70,62.5,67.7,66.8,57.2,IN,42 : 58,22%,17.7,2017
+New Brunswick,Middlesex,40.4995,-74.447,Rutgers University – New Brunswick,141,36.6,35.6,49.8,47.7,NJ,52 : 48,8%,10.8,2017
+Albany,Albany,42.6869,-73.8249,SUNY University at Albany,501-600,32.7,34.4,22.8,23.5,NY,52 : 48,8%,16.0,2017
+St. Louis,St. Louis City,38.6365,-90.2333,Saint Louis University,301-350,33.9,28.9,11.9,36.0,MO,58 : 42,8%,5.7,2017
+College Station,Brazos,30.6107,-96.3491,Texas A&M University,169,46.9,50.1,57.0,53.1,TX,47 : 53,9%,22.1,2017
+Chicago,Cook,41.7901,-87.6009,The University of Chicago,=10,37.7,67.8,89.1,88.1,IL,42 : 58,24%,6.2,2017
+Knoxville,Knox,35.9551,-83.92966,The University of Tennessee-Knoxville,251-300,42.1,39.5,21.5,30.5,TN,,4%,17.8,2017
+New Orleans,Orleans,29.9397,-90.1203,Tulane University,351-400,35.5,37.9,15.7,41.4,LA,56 : 44,11%,11.8,2017
+Berkeley,Alameda,37.8757,-122.2484,"University of California, Berkeley",=10,37.6,59.6,96.1,82.4,CA,52 : 48,16%,12.0,2017
+Davis,Yolo,38.5381,-121.751,"University of California, Davis",=51,50.0,61.2,67.3,61.4,CA,55 : 45,15%,13.7,2017
+Irvine,Orange,33.6431,-117.8378,"University of California, Irvine",=98,45.5,62.3,45.0,42.5,CA,53 : 47,18%,17.2,2017
+Los Angeles,Los Angeles,34.0688,-118.4439,"University of California, Los Angeles",14,47.1,58.0,89.0,82.9,CA,53 : 47,16%,9.9,2017
+Riverside,Riverside,33.9745,-117.3287,"University of California, Riverside",=165,40.5,62.2,33.7,32.0,CA,51 : 49,13%,22.6,2017
+San Diego,San Diego,32.881,-117.2377,"University of California, San Diego",41,67.3,47.7,66.2,61.2,CA,47 : 53,14%,6.6,2017
+Santa Barbara,Santa Barbara,34.4123,-119.8514,"University of California, Santa Barbara",48,87.6,63.3,62.6,52.2,CA,51 : 49,12%,27.4,2017
+Santa Cruz,Santa Cruz,36.999,-122.0607,"University of California, Santa Cruz",146,40.9,48.7,35.3,34.7,CA,53 : 47,2%,24.5,2017
+Honolulu,Honolulu,21.2972,-157.8162,University of Hawai’i at Mānoa,201-250,53.2,63.5,38.7,34.2,HI,56 : 44,13%,10.9,2017
+Chicago,Cook,41.8718,-87.6505,University of Illinois Chicago,200,41.6,57.1,35.3,46.0,IL,53 : 47,18%,11.6,2017
+Baltimore,Baltimore,39.2567,-76.7115,"University of Maryland, Baltimore County",401-500,33.4,29.6,18.7,21.3,MD,46 : 54,8%,17.8,2017
+College Park,Prince George's,38.9886,-76.9396,"University of Maryland, College Park",67,38.5,36.7,63.2,51.0,MD,48 : 52,9%,16.8,2017
+Amherst,Hampshire,42.3886,-72.5293,University of Massachusetts,=165,50.2,51.5,34.8,40.4,MA,49 : 51,13%,13.1,2017
+Minneapolis,Hennepin,44.9778,-93.2353,University of Minnesota,53,94.2,38.2,69.8,60.3,MN,52 : 48,13%,17.5,2017
+Missoula,Missoula,46.861,-113.9829,University of Montana,401-500,36.0,25.4,15.4,34.4,MT,55 : 45,4%,17.6,2017
+Pittsburgh,Allegheny,40.4426,-79.9541,University of Pittsburgh-Pittsburgh campus,=80,39.6,35.4,51.9,49.2,PA,51 : 49,10%,5.9,2017
+Arlington,Tarrant,32.7291,-97.1151,University of Texas at Arlington,501-600,40.7,36.3,17.4,20.0,TX,58 : 42,11%,24.1,2017
+Austin,Travis,30.2838,-97.7364,University of Texas at Austin,50,51.3,35.7,65.9,63.9,TX,51 : 49,10%,17.2,2017
+Richardson,Dallas,32.9894,-96.7487,University of Texas at Dallas,201-250,43.3,53.1,32.5,26.9,TX,44 : 56,25%,25.0,2017
+El Paso,El Paso,31.7717,-106.5035,University of Texas at El Paso,601-800,32.1,33.0,20.9,20.7,TX,53 : 47,7%,24.3,2017
+Charlottesville,Albemarle,38.0339,-78.5118,University of Virginia (Main campus),=121,41.9,44.6,38.6,53.7,VA,53 : 47,12%,10.0,2017
+Seattle,King,47.6557,-122.3108,University of Washington,=25,49.8,55.0,80.4,70.2,WA,53 : 47,15%,11.9,2017
+Williamsburg,James City,37.2732,-76.7196,William & Mary,251-300,32.7,28.8,16.8,40.8,VA,55 : 45,8%,11.9,2017
